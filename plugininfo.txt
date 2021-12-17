@@ -63,15 +63,14 @@
 
 
 <cardfunction><label>Rotate</label><kind>MAKERIGHT180DEGREES</kind></cardfunction>
-<cardfunction><label>Shield/Terrain</label><kind>MAKERIGHT90DEGREES</kind></cardfunction>
-<cardfunction><label>Turn 270</label><kind>MAKERIGHT270DEGREES</kind></cardfunction>
+<cardfunction><label>Shield/Terrain</label><kind>MAKERIGHT270DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Turn</label><kind>MAKERIGHT90DEGREES</kind></cardfunction>
 <cardfunction><label>Lock Rotation</label><kind>TOGGLETURNALLIMMUNITY</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Green+1</label><kind>ADDCOUNTER</kind><color>green</color><includeasbutton>yes</includeasbutton><PositionX>.75</PositionX><PositionY>.04</PositionY></cardfunction>
 <cardfunction><label>Green-1</label><kind>REMOVECOUNTERGREEN</kind><color>green</color><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Red+1</label><kind>ADDCOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>.5</PositionX><PositionY>.04</PositionY></cardfunction>
 <cardfunction><label>Red-1</label><kind>REMOVECOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Ready</label><kind>MAKERIGHT0DEGREES</kind></cardfunction>
-
 
 <definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind></definition>
 <definition><kind>ISSTACKEDCARDSFLAT</kind></definition>
