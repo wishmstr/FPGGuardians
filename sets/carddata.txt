@@ -1,0 +1,681 @@
+Name	Set	ImageFile	Type	Class	Flying	Size	Vitality	Vit. Red	OCB	Babes	Gold	Beer	Channeling	Channeler	Ranged attack	Command	Power stones	basic draw	LDL	MDL	LUC	Effect
+Babes	RE	BabesBriberyCommon2.png,CardBackDoubleBorder.png	bribery				13															Bribery
+Beer	RE	BeerBriberyCommon2.png,CardBackDoubleBorder.png	bribery				10															Bribery
+Gold	RE	GoldBriberyCommon2.png,CardBackDoubleBorder.png	bribery				7															Bribery
+Ministry of Tax Collection	DN	MinistryofTaxCollectionStrongholdDowngradeR1-horizontal.png	downgrade				7															Stronghold's owner must burn one Power Stone if he has a Shield on this Stronghold Card at the end of the Draw and Organize Phase. You may play this Downgrade on an opponent's end Stronghold Card if there is not already an Upgrade there.
+Sewage Backup	DN	SewageBackupStrongholdDowngradeU1-horizontal.png	downgrade				20															All defensive Vitality bonuses on this Stronghold Card are ignored. You may play this Downgrade on an opponent's end Stronghold Card if there is not already an Upgrade there.
+Snake Pit	NP	SnakePitStrongholdDowngradeUncom2-horizontal.png	downgrade				22															If there is a Shield on this end Stronghold Card during the Terrain Settlement Phase, that Shield's owner must discard one Creature from beneath it.
+Amber Well	RE	AmberWellElementalWellCommon1.png	elemental	Well               		L 	4		0													If beaten in combat, secondary attackers get a +8 Vitality instead of the normal +4.
+Angel	RE	AngelElementalAngelUncommon1.png	elemental	Angel              	F	M	7		0													+5 Vitality vs. Demons and Devils.
+Annihilator Cloud	RE	AnnihilatorCloudElementalForceUncommon2.png	elemental	Force	F	L	9		0						3							3 pt. ranged attack.
+Archangel Magnus	RE	ArchangelMagnusElementalAngelRare1.png	elemental	Angel              	F	M	11		0				C									+9 Vitality vs. Demons and Devils.
+Archangel Odessa	RE	ArchangelOdessaElementalAngelRare1.png	elemental	Angel              	F	M	9		0				C	3								+7 Vitality vs. Demons and Devils. Can only channel to Angels and Clerics.
+Baal-a-Gog	RE	BaalaGogElementalDevilUncommon1.png	elemental	Devil              		L 	12		4	L			C									Immune to fire.
+Baelzebub	RE	BealzebubElementalDemonRare1.png	elemental	Demon              	F	L	16		0	L			C									Immune to fire.
+Baleful Eye	RE	BalefulEyeElementalDemonCommon1.png	elemental	Demon              		S 	5		1	L						Y						For the duration of combat, your opponent must declare the Size of Creatures in match-ups before you pick your Creatures.
+Cherub	RE	CherubElementalAngelRare2.png	elemental	Angel              	F	S	3		0				C									+6 Vitality vs Demons and Devils. Immune to large Creatures.
+Corruption Stream	RE	CorruptionStreamElementalForceRare2.png	elemental	Force              		L	2	8	0													Beats opponent if the Corruption Stream is a secondary attacker.
+Darkness Elemental	RE	DarknessElementalElementalElementRare2.png	elemental	Element            		L 	13		3							Y						Opponent must reveal his Combat Hand. You may choose to retreat before melee, but discard the Darkness Elemental to do so.
+Death	RE	DeathElementalManifestationRare2.png	elemental	Manifestation      		M	7	13	0			B										Destroys any Mortal affected by fear.
+Demon Horde of Kabod	RE	DemonHordeofKabodElementalDemonUncommon1.png	elemental	Demon              		M 	6		1	L												Can heal one Demon Horde of Kabod regardless of who controls the space.
+Devil Dog	RE	DevilDogElementalDevilCommon1.png	elemental	Devil              		M 	6		0			B										Immune to fire. +3 Vitality when used as secondary attacker.
+Devil Hedgehog	RE	DevilHedgehogElementalDevilCommon1.png	elemental	Devil              		S 	4		2			B										Immune to fire.
+Djinn	RE	DjinnElementalForceUncommon1.png	elemental	Force              	F	M	6		0		G											Ranged attack -- forces a push, no further modification allowed by either side.
+Doomwing	RE	DoomwingElementalDemonUncommon1.png	elemental	Demon	F	L	14		0	L				6								6 pt. ranged attack.
+Dreaded Doom Dog	RE	DreadedDoomDogElementalDevilCommon1.png	elemental	Devil              		L 	7		4			B										Immune to fire.
+Earth Elemental	RE	EarthElementalElementalElementCommon1.png	elemental	Element            		L 	18		9													+2 in Dry Heaps
+Earth Mother	RE	EarthMotherElementalSpiritRare2.png	elemental	Spirit             		M 	6		0				C									When on a space with no Terrain card, no Creature need be lost if you show your opponent Earth Mother during Terrain Settlement Phase.
+Energy Leech	RE	EnergyLeachElementalForceRare2.png	elemental	Force              		S	2	5	0							Y						Dispels opponents command card. If played in a match-up, no channeling allowed after the Leach is played by either player.
+Energy Toad	RE	EnergyToadElementalForceUncommon1.png	elemental	Force              		S 	5		0						2							No channeling vs. Energy Toad.+2 in the swamp. 2 pt. ranged attack.
+Energy Well	RE	EnergyWellElementalWellRare2.png	elemental	Well               		M	4	7	1				C	3								Can only channel to Elementals.
+Fire Elemental	RE	FireElementalElementalElementRare2.png	elemental	Element            	F	M	14		0													4 pt. AOE fireball, has fire-based attack.+2 in the woods
+Fire Walker	RE	FireWalkerElementalForceCommon1.png	elemental	Force              		S 	9		4													Immune to fire. Has a fire-based attack.
+Gorgal Skag	RE	GorgalSkagElementalDemonCommon1.png	elemental	Demon	F	S	4		1													From the fetid cracks of the world's end come the minions of evil incarnate.
+Greater Air Elemental	RE	GreaterAirElementalElementalElementUncommon1.png	elemental	Element            	F	L	16		0													+6 Vitality vs. Creatures with the ability to fly.
+Greater Energy Elemental	RE	GreaterEnergyElementalElementalElementRare1.png	elemental	Element            	F	L	12		0				C	2								Unlimited channeling
+Ice Elemental	RE	IceElementalElementalElementCommon1.png	elemental	Element            		M 	15		6													+4 in the mountains
+Ice Spirit	RE	IceSpiritElementalSpiritCommon1.png	elemental	Spirit             		L 	5		2													Immune to Undead.+1 in the mountains
+Iron Lord	RE	IronLordElementalElementalLordUncommon1.png	elemental	Elemental Lord     		M 	10		1	L												3 pt. AOE fear attack. When played, +3 pts. to the AOE attack for each different type of Elemental Lord in play.
+Lawyer	RE	LawyerElementalDevilRare1.png	elemental	Devil              		M 	7		0	L	G	B										Must play as first melee Creature. If it survives, Lawyer counts as 21 Vitality for control of the space. Only one Lawyer per space per player.
+Light Elemental	RE	LightElementalElementalElementRare2.png	elemental	Element            	F	L	13		2				C									Destroys Darkness Elemental.
+Lorg Mole	RE	LorgMoleElementalDemonUncommon1.png	elemental	Demon              	F	M	9		1	L												No channeling vs. Lorg Mole.  Immune to fire.
+Magma Elemental	RE	MagmaElementalElementalElementCommon1.png	elemental	Element            		L 	9		0						4							4 pt. ranged attack
+Mist Veiler	RE	MistVeilerElementalForceRare2.png	elemental	Force              		M 	10		0			B										No secondary attacks against Mist Veiler.+1 in the swamp
+Moon Spirit	RE	MoonSpiritElementalSpiritUncommon1.png	elemental	Spirit             		L 	8		0													No channeling vs. Moon Spirits. Immune to fear.
+Mud Elemental	RE	MudElementalElementalElementCommon1.png	elemental	Element            		M 	8		2													+4 in the swamp
+Old Nick	RE	OldNickElementalDevilRare1.png	elemental	Devil              	F	L	20		0	L			C	5								Can only channel to Demons and Devils. Can only accept channeling from your Guardian.
+Primordial Goo	RE	PrimordialGooElementalForceCommon1.png	elemental	Force              		M 	12		5													+3 in the swamp
+Rain Spirit	RE	RainSpiritElementalSpiritUncommon2.png	elemental	Spirit             	F	L	6		0						2							2 pt. ranged attack
+Rock Lord	RE	RockLordElementalElementalLordUncommon1.png	elemental	Elemental Lord     		M 	12		1	L												3 pt. AOE fear attack. When played, +3 pts. to the AOE attack for each different type of Elemental Lord in play.
+Rock Spirit	RE	RockSpiritElementalSpiritCommon1.png	elemental	Spirit             		S 	5		1							Y						All your Creatures are +5 Vitality vs. Creatures defending in Strongholds.
+Roving Force Inferno	RE	RovingForceInfernoElementalForceRare1.png	elemental	Force              		M 	12		1													No secondary attacks vs. the Roving Force Inferno.
+Sand Lord	RE	SandLordElementalElementalLordCommon1.png	elemental	Elemental Lord     		M 	11		3	L												-6 Vitality in Woods +6 in Dry Heaps
+Sleeping Spirit	RE	SleepingSpiritElementalSpiritCommon1.png	elemental	Spirit             	F	S	5		1													If the Sleeping Spirit wins a match-up, opponent is destroyed.
+Smoke Spirit	RE	SmokeSpiritElementalSpiritUncommon1.png	elemental	Spirit             	F	M	7		1				C									Once played, no ranged attacks allowed by either player.
+Snow Daughters	RE	SnowDaughtersElementalSpiritCommon1.png	elemental	Spirit             		M 	6		2													+3 in the mountains
+Spirit of the Forge	RE	SpiritoftheForgeElementalSpiritRare2.png	elemental	Spirit		M	6	8	0						5							5 pt. ranged attack
+Spirit of the Hunt	RE	SpiritoftheHuntElementalSpiritRare1.png	elemental	Spirit             		M 	5		0													You may ignore your first opponent in melee and randomly pick a new one from opponent's combat hand. One per space per player.
+Stinking Spirit	RE	StinkingSpiritElementalSpiritUncommon1.png	elemental	Spirit             		L 	5		0			B				Y						Any Creatures with a Base Vitality less than 5 can't fight and don't count towards control of space (both sides). They can be attacked by secondary attackers.
+Succubus	RE	SuccubusElementalDevilUncommon1.png	elemental	Devil	F	M	9		0		G											Immune to fire; +7 vs bribable by Babes.
+Sun Spirit	RE	SunSpiritElementalSpiritCommon2.png	elemental	Spirit             		S 	12		6													Immune to fire.  Has a fire-based attack.
+Tangle Web	RE	TangleWebElementalForceUncommon1.png	elemental	Force              		L 	8		2													Creatures who beat the Tangle web are destroyed if they don't get to stay in the space.+4 in the Spires
+Thunder Hawk	RE	ThunderHawkElementalSpiritRare2.png	elemental	Spirit             	F	L	1	7	1	L					13							13 pt. ranged attack. When used as a ranged attack, Thunder Hawk is beaten as well.
+Trumpeter	RE	TrumpeterElementalAngelUncommon1.png	elemental	Angel              	F	S	2		0				C			Y						Opponent must show you all Demons and Devils in their Combat Hand. Opponent must play these in match-ups before any others.
+Vapor Elemental	RE	VaporElementalElementalElementUncommon1.png	elemental	Element            	F	L	11		0				C									When played in a match-up, opponent must discard items travelling as creatures on this space
+Warrior Spirit	RE	WarriorSpiritElementalSpiritUncommon1.png	elemental	Spirit	F	M	10		3													The cunnin beast is awakened. Pretenders and false prophets stand wary, your time is nigh.
+Water Spout	RE	WaterSpoutElementalForceCommon1.png	elemental	Force              		S 	4		1													+3 in rivers and lakes
+Whispering Spirits	RE	WhisperingSpiritsElementalSpiritCommon1.png	elemental	Spirit             	F	S	3		0													+2 in the swamp
+Wind Spirit	RE	WindSpiritElementalSpiritCommon1.png	elemental	Spirit             	F	M	5		1													+4 Vitality vs. Creatures with the ability to fly.
+Wood Spirit	RE	WoodSpiritElementalSpiritCommon1.png	elemental	Spirit             		M 	6		1													+4 in the woods
+Yandrax	RE	YandraxElementalDemonUncommon1.png	elemental	Demon              		S	1	2	0							Y						All Demons and Devils are +2 Vitality (both sides).
+Angel of Death	DI	AngelofDeathElementalAngelCommon1.png	elemental	Angel              	F	M	13		0													You gain 1 Power Stone for each Creature you beat after the Angel of Death is in play, as long as it is unbeaten.
+Arwyddyn	DI	ArwyddynElementalSpiritCommon4.png	elemental	Spirit             	F	S	3		1		G											Can heal any one Spirit for 1 Power Stone.
+Captain Red Noseoid	DI	CaptainRedNoseoidElementalEvilTwinCommon2.png	elemental	Evil Twin          		M 	15		7	L	G	B										Opponent gets no Vitality bonus for Creature Class when Captain Red Noseoid is in play.
+Castellan Keir	DI	CastellanKeirElementalMediumCommon1.png	elemental	Medium             		M 	1		0			B										If Keir is on one of your rubble spaces during the Terrain Settlement Phase, you may restore it back into a working Stronghold. Discard Castellan Keir when used in this fashion.
+Chephros	DI	ChephrosElementalDevilCommon3.png	elemental	Devil              		L 	9		2	L												Chephros is +2 Vitality for each Demon or Devil that has been beaten so far in this combat.
+Druk	DI	DrukElementalDevilCommon3.png	elemental	Devil	F	M	8		2	L												Immune to fire.
+Dust Geyser 	DI	DustGeyserElementalGeyserCommon1.png	elemental	Geyser             		S	1	7	0			B										When played as a primary attacker, the initial result is a push.  Either player may then modify the match-up.
+Flame Geyser	DI	FlameGeyserElementalGeyserCommon3.png	elemental	Geyser             	F	L	6		1													Fire-based attack. Immune to fire. +2 Vitality to all your Creatures with fire-based attacks when the Flame Geyser is in play.
+Hackthorn Strangler	DI	HackthornStranglerElementalPlantCommon2.png	elemental	Plant              		L 	11		0			B										When played as a primary attacker, the Strangler may ignore its match-up opponent and instead attack your opponent's Command Card if that card is a Creature.
+Holy Avenger	DI	HolyAvengerElementalAngelRare2.png	elemental	Angel              	F	M	5		0													+10 Vitality as a secondary attacker if your primary attacker in the match-up was a Paladin or an Angel other than a Holy Avenger.
+Kazarian Squawker	DI	KazarianSquawkerElementalDemonCommon4.png	elemental	Demon              	F	S	5		1							Y						The Squawker attacks your opponent's Command Card, if that card is a Creature. If the Squawker wins the match-up, your opponent's Command Card ability doesn't take affect.
+Koset of the Light	DI	KosetoftheLightElementalSpiritCommon3.png	elemental	Spirit             	F	M	4		0			B										You gain 1 Power Stone every time an opponent channels while Koset is in play.
+Lizard Skin Lynn	DI	LizardSkinLynnElementalSaurianCommon4.png	elemental	Saurian            		M 	8		1		G											+5 Vitality vs. Large Creatures.
+Magnate Justice	DI	MagnateJusticeElementalManifestationCommon4.png	elemental	Manifestation		M	16		7													Destroys any Wanderer.
+Monolith of Chaos	DI	MonolithofChaosElementalMonolithCommon2.png	elemental	Monolith           		L 	11		4													If the Monolith beats an External in the primary attack round, it may not be attacked by secondary attackers.
+Reverend Smilin' Jackoid	DI	ReverendSmilinJackoidElementalEvilTwinCommon2.png	elemental	Evil Twin          		M 	2		0	L	G	B				Y						When fighting over a space with an opponent's face-down Terrain or Shield/Terrain card, that card is discarded after combat.
+Roaming Steam Geyser	DI	RoamingSteamGeyserElementalGeyserRare3.png	elemental	Geyser		M	6		0													No secondary attacks vs. the Geyser.
+Spirit Guide	DI	SpiritGuideElementalSpiritCommon3.png	elemental	Spirit             		M 	3		0				C			Y						Opponent must tell you the total number of cards and total Vitality in his/her combat hand.  You may then discard the Spirit Guide and retreat before primary attacks begin.
+Supermodeloid	DI	SupermodeloidElementalEvilTwinCommon2.png	elemental	Evil Twin          		M	1	3	0		G											+3 Vitality to all your Creatures bribable by Babes when the Supermodeloid is in play.
+Vensuni Inferno Swarm	DI	VensuniInfernoSwarmElementalElementRare1.png	elemental	Element            		L	6	14	4							Y						11-pt AOE fire attack. Discard your entire combat hand when the Swarm is used as a Command Card.
+Angel of Righteousness	DN	AngelofRighteousnessElementalCreatureC1.png	elemental	Angel              	F	M	8		1													+3 Vitality for each bribery icon on the Angel's match-up opponent.
+Baezhu, Overlord of Twisted Ways	DN	BaezhuOverlordofTwistedWaysElementalCreatureC4.png	elemental	Element            		L 	2		2			B				Y						For the remainder of combat, the disputed land space being fought upon is considered to be Spires.
+Bob, Snapping Gob	DN	BobSnappingGobElementalCreatureR4.png	elemental	Gob		S	3		0	L												Destroys Mortals when used as a secondary attacker.
+Demorgan the Inciter	DN	DemorgantheInciterElementalCreatureR2.png	elemental	Disciple of Entropy	F	L	6	11	4			B										When played as a primary attacker, add 2d6 to the Inciter's Vitality.
+Garuda Kahn, First Disciple	DN	GarudaKahnFirstDiscipleElementalCreatureR4.png	elemental	Disciple of Entropy	F	L	9	11	2			B										Garuda gains 1d6 Vitality for every other Disciple that is in play.
+Gnorg, Overlord of Swamps	DN	GnorgOverlordofSwampsElementalCreatureU2.png	elemental	Element            		L 	6		1			B				Y						For the remainder of combat, the disputed land space being fought upon is considered to be Swamps.
+Initiate of Entropy	DN	InitiateofEntropyElementalCreatureU4.png	elemental	Disciple of Entropy		M	2	5	1			B	C									When played as a primary attacker, add 1d6 to the Initiate's Vitality.
+Ix, Overlord of the Waters	DN	IxOverlordoftheWatersElementalCreatureC3.png	elemental	Element            		L 	5		1			B				Y						For the remainder of combat, the disputed land space being fought upon is considered to be Rivers and Lakes.
+Medicine Man	DN	MedicineManElementalCreatureC3.png	elemental	Spirit             		M 	3		0				C			Y						All of your Spirits at +2 Vitality.
+Mendu Sada, the Havoc	DN	MenduSadatheHavocElementalCreatureR4.png	elemental	Disciple of Entropy		L 	11		0			B										1d6 AOE fear attack. On a roll of 6, there is no effect.
+Mu Kir' Agavati, Second Disciple	DN	MuKirAgavatiSecondDiscipleElementalCreatureU3.png	elemental	Disciple of Entropy		S 	4		1			B	C									While Mu Kir' is in play, you may reroll any 1d6 one time.
+Nob, Rapicious Gob	DN	NobRapiciousGobElementalCreatureR4.png	elemental	Gob                		S 	3		0			B										Destroys Elementals when used as a secondary attacker.
+Orella of the Mist	DN	OrellaoftheMistElementalCreatureR2.png	elemental	Disciple of Entropy		M	4	7	1		G		C									Roll 1d6. Destroys (1-2 = Elementals, 3-4 = Externals, 5-6 = Mortals).  No modification to this match-up after the roll.
+Rey, Overlord of Trees	DN	ReyOverlordofTreesElementalCreatureC1.png	elemental	Element            		L 	4		2			B				Y						For the remainder of combat, the disputed land space being fought upon is considered to be Woods. No ranged attacks allowed.
+Shin Chios, Third Disciple	DN	ShinChiosThirdDiscipleElementalCreatureR2.png	elemental	Disciple of Entropy	F	M	4		0		G		C									When Shin is your primary match-up Creature, you may play any card from your Combat Hand as an Unchallenged Card in melee. Shin gains that Creature's text box.
+Slor, Overlord of the Wastes	DN	SlorOverlordoftheWastesElementalCreatureU4.png	elemental	Element            		L 	5		2			B				Y						For the remainder of combat, the disputed land space being fought upon is considered to be The Dry Heaps.
+Uras, Overlord of Mountains	DN	UrasOverlordofMountainsElementalCreatureC3.png	elemental	Element            		L 	2		2			B	C			Y						For the remainder of combat, the disputed land space being fought upon is considered to be Mountains.
+Vikia Tso'Shan'Lu	DN	VikiaTsoShanLuElementalCreatureR3.png	elemental	Disciple of Entropy		M 	4		0		G		C									If Vikia beats her primary match-up opponent, roll 1d6. On a 3+, you may immediately pull a random card from your opponent's Combat Hand. The card you picked in now an Unchallenged Card in melee.
+Xaz, Thief of Twilight	DN	XazThiefofTwilightElementalCreatureR4.png	elemental	Disciple of Entropy		M 	6		0		G											When Xaz is used as a primary attacker, roll 1d6.  On a 3+, Xaz gains the text box of her match-up opponent and that Creature loses its text box power.
+Zob, Gurgling Gob	DN	ZobGurglingGobElementalCreatureR4.png	elemental	Gob                		S 	3		0		G											Destroys Externals when used as a secondary attacker.
+Ba Choomba	NP	BaChoombaElementalCreatureCommon2.png	elemental	Saurian/Blood Spear		L 	22		11	L												If the Ba Choomba loses a primary match-up, your Command Card is destroyed, if it is a Creature.
+Bellaret, Third Called	NP	BellaretThirdCalledElementalCreatureUncom1.png	elemental	Traithe            		M 	4		1						2							2 pt. ranged attack. Add the sum of the unmodified point values of any other ranged attacks already played on this match-up to Bellaret's ranged attack.
+Dachas, Supreme Leader	NP	DachasSupremeLeaderElementalCreatureUncom1.png	elemental	Saurian/Law Speaker		M 	5		0	L						Y						All Creatures in your Combat Hand gain immunity to AOE's, including AOE's from your opponent's Command Card.
+Doogop, the Greedy	NP	DoogoptheGreedyElementalCreatureCommon2.png	elemental	Devil              	F	S	6		0	L	G											+1 Vitality to each of your other Creatures for each of their Bribery icons while Doogop is in play.
+Drizzle Bone the Hack	NP	DrizzleBonetheHackElementalCreatureUncom1.png	elemental	Demon              		S 	8		0	L												Ranged Attack - If your primary match-up Creature wins this match-up, your opponent's primary match up Creature is destroyed.
+Gehrund, Field Marshal 	NP	GehrundFieldMarshalElementalCreatureUncom1.png	elemental	Saurian/Blood Spear		M 	3		1		G					Y						Spend 1 stone to force your opponent to take any Creatures from beneath his Stronghold cards or Upgrades and place them in his Creature Pen before primary attacks.+1 in the Jungle
+Gorcoo	NP	GorcooElementalCreatureCommon2.png	elemental	Saurian/Night Spear		M 	2		0		G											Ranged attack - Causes your current Saurian match-up Creature to gain its Off-color bonus if it did not already get it.
+Guardian Angel	NP	GuardianAngelElementalCreatureUncom3.png	elemental	Angel              	F	M	5		0							Y						During primary match-ups, you may return any of your beaten Creatures to your Creature Pen before the next primary match-up begins for 1 Power Stone per creature.
+Jimandu	NP	JimanduElementalCreatureCommon2.png	elemental	Saurian/Blood Spear		L 	10		2			B										+1 Vitality for each primary match-up which has occurred in this combat so far.
+Jinshade, Second Called	NP	JinshadeSecondCalledElementalCreatureUncom3.png	elemental	Traithe            		M 	6		2						3							3 pt. ranged attack. Add the sum of the unmodified point values of any other ranged attacks already played on this match-up to Jinshade's ranged attack.
+Joomjaba	NP	JoomjabaElementalCreatureUncom3.png	elemental	Saurina/Blood Spear		M 	5		0			B										When used as a secondary attacker, the Joomjaba destroys Large Creatures.
+Mocodabi	NP	MocodabiElementalCreatureCommon2.png	elemental	Saurian/Night Spear		L 	5		0							Y						Opponent must discard any 1 Medium-sized Creature of his choice from his Combat Hand before primary attacks.
+Noknaga	NP	NoknagaElementalCreatureCommon2.png	elemental	Saurian/Blood Spear		S	4		1			B										Immune to fear. +3 in the Jungle
+Rachur, Field Marshal	NP	RachurFieldMarshalElementalCreatureUncom1.png	elemental	Saurian/Still Watcher		M 	4		1			B										When Rachur is in play and unbeaten, all of your other Creatures gain their Terrain bonuses, regardless of which Terrain they're fighting in.
+Secauris	NP	SecaurisElementalCreatureCommon2.png	elemental	Saurian/Night Spear		S 	4		1			B			1							1 pt. ranged attack which also forces opponent to discard 1 Creature Magic Item on the space.
+Shackzu, Field Marshal	NP	ShackzuFieldMarshalElementalCreatureUncom1.png	elemental	Saurian/Night Spear		M 	6		1		G											+1 Vitality to all your other Saurians when Shackzu is in play.+2 in the Jungle
+Tavinmoor, First Called	NP	TavinmoorFirstCalledElementalCreatureCommon2.png	elemental	Traithe            		M 	8		1						5							5 pt. ranged attack. Add the sum of the unmodified point values of any other ranged attacks already played on this match-up to Tavinmoor's ranged attack.
+Arms of the Earth	RE	ArmsoftheEarthExternalUndeadRare2.png	external	Undead             		L 	6		0							Y						Randomly pick a card from your opponent's Combat Hand. That card and Arms of the Earth can't attack or count toward victory. Secondary attackers and attack either Creature freely.
+Bantam Drake	RE	BantamDrakeExternalDragonUncommon1.png	external	Dragon             	F	M	8		1		G											+7 vs flying creatures.
+Black Lung	RE	BlackLungExternalCommon1.png	external			M 	14		6	L												+4 in rivers and lakes
+Black Unicorn	RE	BlackUnicornExternalUndeadRare2.png	external	Undead             		L 	13		0				C	2								Can only accept channeling from Guardians and eternal witch lords.
+Blackthwaite Jumper	RE	BlackthwaiteJumperExternalFairyUncommon1.png	external	Fairy              		S 	1		0			B										Immune to AOE attacks.+1 in the woods
+Bold Mold	RE	BoldMoldExternalMoldUncommon1.png	external	Mold               		L 	12		4			B										If Bold Mold beats opponent by more than the Vitality of his/her Command Card, your opponent's Command Card is destroyed.
+Bone Shambler 	RE	BoneShamblerExternalUndeadRare2.png	external	Undead             		M 	3		0				C									Can accept up to 6 pts. of channeling.
+Burrowing Barg	RE	BurrowingBargExternalCommon2.png	external			M 	8		2													+7 Vitality vs. Creatures defending in Strongholds.
+Crook End Snoot	RE	CrookEndSnootExternalFairyCommon1.png	external	Fairy              		S 	2		4			B										If beaten by External or Elementals, Snoot is destroyed.
+Crook End Snooter	RE	CrookEndSnooterExternalFairyUncommon1.png	external	Fairy              		S 	4		8			B										If beaten by External or Elementals, Snooter is destroyed.
+Crystal Flash	RE	CrystalFlashExternalunnamedRare2.png	external		F	S	7		0													Immune to large creature
+Cyclops	RE	CyclopsExternalCommon1.png	external			L 	12		6			B										+1 in the mountains
+Dragon Wing Lord	RE	DragonWingLordExternalDragonRare1.png	external	Dragon             	F	L	19		0	L		B	C	1								5 pt. AOE fire breath. May only accept channeling from Guardian.
+Embryonic Witch	RE	EmbryonicWitchExternalUndeadUncommon2.png	external	Undead             		M 	1		0							Y						Win all pushes in match-ups.
+Eternal Witch Lord	RE	EternalWitchLordExternalUndeadRare2.png	external	Undead             		M 	17		0				C	2								Can only channel to Undead. Can heal one Undead for every creature your opponent lost in combat.
+Female Pixie	RE	FemalePixieExternalPixieUncommon1.png	external	Pixie              		S 	2		0		G											Immune to Externals.
+Female Titan	RE	FemaleTitanExternalTitanCommon1.png	external	Titan              		L 	15		6		G											While face-up, the Titan can change size at will, even when Up-card. -2 Vitality when M sized; -4 when S sized.
+Giant Penguin	RE	GiantPenguinExternalCommon1.png	external			L 	16		8	L												+2 in rivers and lakes
+Goldthwaite Jumper	RE	GoldthwaiteJumperExternalFairyUncommon2.png	external	Fairy              		S 	1		0			B										+1 Vitality when used as a secondary attacker.
+Grand Phooba Schnee	RE	GrandPhoobaSchneeExternalSchneeRare1.png	external	Schnee             		S 	5		0	L						Y						Your first match-up creature is +1, your second +2, etc.
+Grim Skull	RE	GrimSkullExternalUndeadRare2.png	external	Undead             		S	2	4	0						3							3 pt. ranged attack. Can receive up to 3 pts. of channeling when used as a ranged attack.
+Groupie	RE	GroupieExternalUncommon1.png	external			M 	2		0			B	C									Immune to Mortals.
+Hair-de-hobbins	RE	HairdehobbinsExternalFairyCommon1.png	external	Fairy              		M 	6		2		G											+3 in the woods
+Humungus Fungus	RE	HumungusFungusExternalFungusRare1.png	external	Fungus             		L 	12		0													If Fungus wins a match-up, its opponent is destroyed. +2 in the Dry Heaps.
+Iron Crag Baggler	RE	IronCragBagglerExternalFairyCommon1.png	external	Fairy              		S 	4		0		G					Y						Dispel opponent's command card.+1 in the woods
+Iron Crag Boggler	RE	IronCragBogglerExternalFairyCommon1.png	external	Fairy              		S 	5		2		G											When played in a match-up, opponent must discard any Items travelling as Creatures on the space
+Iron Crag Buggler	RE	IronCragBugglerExternalFairyCommon1.png	external	Fairy              		S 	2		0		G					Y						Opponent can't use any ranged attacks in this combat.+1 in the woods
+Kikijub	RE	KikijubExternalunnamedUncommon1.png	external			L 	14		2													+9 in the mountains
+King of Mystfall	RE	KingofMystfallExternalFairyRare2.png	external	Fairy              		S 	8		0			B	C									+3 Vitality to all your Fairies played while the King is in play. +2 Vitality in Woods. Only one King per space per player.  (Errata: card says "Brom".)
+Lake Serpent	RE	LakeSerpentExternalDragonRare2.png	external	Dragon             		L 	17		0	L			C									4 pt. AOE fire breath.+3 in rivers and lakes
+Leprechaun	RE	LeprechaunExternalCommon1.png	external			S 	3		0		G											If beaten by a large Creature, Leprechaun is returned to your Storage Hand at the end of Combat.
+Male Pixie	RE	MalePixieExternalPixieCommon1.png	external	Pixie              		S 	2		0			B			2							2 pt. ranged attack that only works on Mortals.
+Male Titan	RE	MaleTitanExternalTitanUncommon2.png	external	Titan              		L 	17		7	L												While face-up, the Titan can change size at will, even when it's the Up-card; -2 Vitality when M sized; -4 Vitality when S sized.
+Minataur	RE	MinataurExternalCommon1.png	external			M 	10		4		G											Both the Minataur and its opponent in melee don't count towards control of the space.+1 in Dry Heaps
+Old Mold	RE	OldMoldExternalMoldCommon1.png	external	Mold               		L 	3		1			B										Immune to fire and ranged attacks.+1 in the swamp
+Phantom Stalker	RE	PhantomStalkerExternalUndeadRare2.png	external	Undead             		M 	14		2													When in your Combat Hand, the Stalker can switch places with any of your Undead creatures in a match up before the next match-up starts. First Creature returns to your Combat Hand. (Note: "Combat Hand" is errata.)
+Rik'Sook	RE	RikSookExternalWizardRare2.png	external	Wizard		M	5		0		G		C			Y						You can channel to any creature in match-up.
+Rock Rat	RE	RockRatExternalRatRare1.png	external	Rat                		S 	4		0		G				3							3 Pt. ranged attack that can only be used vs. non-flyers.
+Rot Rat	RE	RotRatExternalRatCommon1.png	external	Rat                		S 	2		0		G											+1 Vitality vs. all creatures affected by fear.
+Rouge Spectre	RE	RogueSpecterExternalUndeadUncommon1.png	external	Undead             		M 	6		0													The Specter uses the off-color bonus of your previous match-up card (only applies vs. Mortals). The Specter also receives your previous card's terrain bonus.  One per Shield per player.
+Schneeble	RE	SchneebleExternalSchneeUncommon1.png	external	Schnee             		S 	5		10	L												If Schneeble loses a match-up, it is destroyed.
+Shadow of Ashes	RE	ShadowofAshesExternalUndeadRare2.png	external	Undead             		M 	12		1					3								Shadow of Ashes has a fire-based attack.
+Skeletal Minion	RE	SkeletalMinionExternalUndeadCommon1.png	external	Undead             		M 	5		1				C									If lost in combat, you can return the Skeletal Minion to your Storage Hand for one Power Stone.
+Slippery Slime	RE	SlipperySlimeExternalRare2.png	external			L 	4		0													When in the Combat Hand, the Slime can switch places with a Creature of yours that just lost a match-up.  Creature that lost returns to your Combat Hand.
+Sphinx	RE	SphinxExternalUncommon1.png	external			M 	5		0			B				Y						After both sides have picked (but not shown) match-up cards, opponent must guess the border color. If wrong, your creature gets +3 Vitality.
+Tiny Flying Fungus	RE	TinyFlyingFungusExternalFungusCommon1.png	external	Fungus             	F	S	4	5	0						2							2 pt. ranged attack
+Valkyrie Spirit	RE	ValkyrieSpiritExternalunnamedRare2.png	external			M 	7		0		G			3								Can channel to Knights only - even to Knights that normally cannot accept channeling.
+Vampire	RE	VampireExternalUndeadCommon1.png	external	Undead             		M 	9		3													If Vampire beats an oppoent who has accepted channeling in this combat, your opponent loses 2 Power Stones.
+Vampire Lord	RE	VampireLordExternalUndeadRare2.png	external	Undead             		M 	12		3													If Vampire Lord beats an opponent who has accepted channeling in this combat, opponent loses 2 Power Stones. All your Vampires are +3 Vitality when Vampire Lord is in play.
+Wailing Specter	RE	WailingSpecterExternalUndeadUncommon1.png	external	Undead             		M 	8		0							Y						4 pt. AOE fear attack.
+Water Nymph	RE	WaterNymphExternalNymphCommon2.png	external	Nymph              		M 	7		2		G											+3 in rivers and lakes
+White Unicorn	RE	WhiteUnicornExternalUnicornRare1.png	external	Unicorn            		M	7	10	0													Destroys Undead, Demons, Devils and Black Unicorns.
+Wild Nymph	RE	WildNymphExternalNymphCommon1.png	external	Nymph              		S 	4		1		G		C									+1 in the woods
+Will'o the Wisp	RE	WillotheWispExternalFairyUncommon1.png	external	Fairy              		S	4	7	0				C		4							4 pt. ranged attack
+Winterseed's Maiden	RE	WinterseedsMaidenExternalFairyUncommon1.png	external	Fairy              		S	6	7	0		G			3								Can channel to Fairies only -- even to Fairies that normally cannot accept channeling.
+Winterseed's Mistress	RE	WinterseedsMistressExternalFairyUncommon1.png	external	Fairy              		S 	5		0		G		C	2								Can channel to Fairies only -- even to Fairies that normally cannot accept channeling.
+Wood Nymph	RE	WoodNymphExternalNymphCommon1.png	external	Nymph              		M 	8		3													'+3 in the woods
+Wraith	RE	WraithExternalUndeadRare2.png	external	Undead             		M 	8		0				C									Can accept up to 16 pts. of channeling. +5 Vitality Vs. Creatures defending in Strongholds.
+Zombie	RE	ZombieExternalUndeadUncommon1.png	external	Undead             		M 	7		2				C									The arcane mutterings of the twisted, spawn the animated filth that walk the hidden ways.
+Barrow Wight	DI	BarrowWightExternalUndeadCommon3.png	external	Undead             		M 	8		2													The Barrow Wight is +4 Vitality when it is a secondary attacker.
+Bone Fright	DI	BoneFrightExternalUndeadRare3.png	external	Undead             		L 	7		2													Opponent must use all ranged attacks possible against it
+Buster Scrimbo	DI	BusterScrimboExternalWandererCommon3.png	external	Wanderer           		M 	4		2			B										If Buster is your Up-card before cards are drawn in the Draw and Organize Phase, draw 1 additional card.
+Cactus McFingers	DI	CactusMcFingersExternalWandererCommon2.png	external	Wanderer           		M 	4		1	L						Y						If McFingers is alive after combat and you won control of the space, you may play a Terrain card under this Shield immediately, removing any Terrain card that your opponent may have had there first.
+Elandar, Mighty Wizard	DI	ElandarMightyWizardExternalWandererRare1.png	external	Wanderer           		M 	6		0		G					Y						Blanks out all Creature text boxes
+Great Horned Troll	DI	GreatHornedTrollExternalTrollRare3.png	external	Troll              		L 	9		0		G					Y						When you are defending a space, your opponent must retreat, pay 1 Power Stone or discard two cards from his/her Storage Depot before primary attacks.
+Green Missy	DI	GreenMissyExternalFairyCommon4.png	external	Fairy		M	6		2		G											+3 in the swamp
+Grotto Troll	DI	GrottoTrollExternalTrollCommon3.png	external	Troll              		M 	3		0			B				Y						All of your Creatures are +2 Vitality while fighting in Rivers and Lakes.
+Hal, a Tosis Dragon	DI	HalaToasisDragonExternalDragonRare2.png	external	Dragon             	F	L	9		1	L		B	C			Y						During primary attacks, if an opponent's Creature wins a macth-up by less than 5 Vitality, both match-up cards are destroyed.
+Howling Reaver	DI	HowlingReaverExternalUndeadCommon2.png	external	Undead             		M 	5		1													If the Howling Reaver beats an opponent as a primary attacker, your opponent must discard one random card from his/her Creature pen.
+Jambo Slick, Smuggler	DI	JamboSlickSmugglerExternalWandererCommon1.png	external	Wanderer           		M 	4		1	L	G	B				Y						Immediately pull any one Bribery card from your Discard pile, reveal it, and add it to your Storage Depot.
+Jamchops the Trader	DI	JamchopstheTraderExternalWandererCommon3.png	external	Wanderer           		M 	4		0	L	G	B				Y						Any Bribery card you play works vs. any bribable Creature.
+Jonstollo the Seeker	DI	JonstollotheSeekerExternalWandererCommon4.png	external	Wanderer           		M 	7		3			B										When the Seeker is your Up-Card, you may immediately look through your draw deck and pick any other card as your Up-Card. Discard the Seeker. Reshuffle your deck.
+Land Drake	DI	LandDrakeExternalDragonRare3.png	external	Dragon             		L 	18		5	L												3 point AOE Fire breath.
+Lowland Troll	DI	LowlandTrollExternalTrollCommon2.png	external	Troll              		L 	8		0	L												+3 Vitality when your Shield is attacking.
+Old Gumper	DI	OldGumperExternalFairyCommon4.png	external	Fairy              		S 	3		1			B										Your opponent gets no off-color bonuses vs. your Externals while Gumper is in play.
+Razor Shiefa	DI	RazorShiefaExternalSliphCommon4.png	external	Sliph        		M	7		1		G											+4 in the Spires
+Razor Sliph	DI	RazorSliphExternalSliphRare3.png	external	Sliph              		M 	5		0			B										+3 in the Spires
+Schneebolt	DI	SchneeboltExternalSchneeCommon2.png	external	Schnee             		S 	3		0			B										Ranged attack - Cancels an opponent's ranged attack.
+Shadrune	DI	ShadruneExternalUndeadRare3.png	external	Undead             		M 	9		0													If beaten by in a match-up by a Creature who can accept channeling, your opponent loses 1 Power Stone.
+Slimwit Man	DI	SlimwitManExternalWandererRare2.png	external	Wanderer           		M 	3		0	L						Y						Opponent must chose to retreat now or fight.  If opponent stays, all opponent's Creatures are +2 Vitality. If you win the combat, all of your opponent's Creatures under that Shield are destroyed.
+Starling Dodd Boys	DI	StarlingDoddBoysExternalFairyCommon3.png	external	Fairy              		S 	4		2		G											All of your Fairies bypass your opponent's Stronghold Vitality bonus while the Dodd Boys are in play.
+Valley Troll	DI	ValleyTrollExternalTrollCommon4.png	external	Troll              		S 	3		2		G											Immune to fear.
+Barnacle Bazulee'	DN	BarnacleBazuleeExternalCreatureR4.png	external	Wanderer           		S 	3		1		G											+2 Vitality to all your Creatures which have a Rivers and Lakes Terrain bonus, while Barnacle is in play.
+Captain South America	DN	CaptainSouthAmericaExternalCreatureR1.png	external	O-Men              		M	1	10	1	L	G	B										When the Captain is played as a primary attacker, add your Shield's Up-card number to the Captain's Base Vitality.
+Cratur Hobbs	DN	CraturHobbsExternalCreatureU2.png	external	Wanderer           		M 	4		0	L	G	B				Y						You may bribe any 1 bribable Creature during combat by discarding one Item from your Storage Hand.
+Delilah Rangoon	DN	DelilahRangoonExternalCreatureC1.png	external	Wanderer           		M 	6		2		G											When used as a primary attacker vs. a Mortal, the initial result is a push.
+Disgruntled Postal Worker	DN	DisgruntledPostalWorkerExternalCreatureU2.png	external	Wanderer           		M 	6		0			B										If Postal Worker beats its primary match-up opponent, return Postal Worker to your Combat Hand. Opponent Creature remains as an Unchallenged Card in melee.
+Handles O'Rourke	DN	HandlesORourkeExternalCreatureR1.png	external	Wanderer           		M	6		0	L						Y						Can fire 3 pt. Ranged attacks into any primary match-up for 1 power stone per shot.
+Karnis the Transcender	DN	KarnistheTransenderExternalCreatureU2.png	external	Wanderer           		M 	8		2		G		C									While Karnis is in play and unbeaten, all d6 rolls are reduced to a 1.
+Longshot Louie	DN	LongshotLouieExternalCreatureU3.png	external	Wanderer           		M 	7		2	L	G	B	C									Ranged attack - destroys any non-Guardian Creature which has just channeled and cancels that channel.
+Randy Creek Regulars	DN	RandyCreekRegularsExternalCreatureR1.png	external	Fairy              	F	S	6		0			B				Y						All your Fairies are channel receivers this combat and can take up to Guardians CMP; one per space per player
+Slatch Willer	DN	SlatchWillerExternalCreatureC3.png	external	Wanderer           		M 	5		1			B										For each Beer Bribery Card discarded from your Combat Hand, Slatch gains +5 Vitality.
+The Amazing Cider-Man	DN	TheAmazingCiderManExternalCreatureU1.png	external	O-Men              		M 	6		2			B										While Cider-Man is in play, all of your Creatures bribable by Beer gain +2 Vitality.
+Tiger Baloo	DN	TigerBalooExternalCreatureC4.png	external	Wanderer           		M 	8		1													+3 Vitality on a Face-down Terrain Card.
+Vesuvious Rex	DN	VesuviousRexExternalCreatureR3.png	external	Dragon             	F	L	13		0	L			C									Immune to secondary attackers with Base Vitality 5 or less.
+Whalebone Rick	DN	WhaleboneRickExternalCreatureU4.png	external	Wanderer           		M 	4		0		G											+3 Vitality for each Creature Item used as a Command Card in this combat.
+Woodland Troll	DN	WoodlandTrollExternalCreatureC4.png	external	Troll              		S 	4		1	L												+4 Vitality for each Nymph you have in play.
+Woolverine	DN	WoolverineExternalCreatureC4.png	external	O-Men              		M 	6		2	L		B										While Woolverine is in play, your opponent must tell you the class of his Creatures in match-ups before you pick yours.
+Chief Lector Priest of Sethos	NP	ChiefLectorPriestofSethosExternalCreatureUncom3.png	external	Undead             		M 	2		1							Y						Change the Creature Class of any of your Undead Creatures to one of your choice until the end of primary match-ups.
+Dead Cats	NP	DeadCatsExternalCreatureCommon2.png	external	Undeal/Animal      		S	3	5	0													When Dead Cats are in play and beaten, all of your Creatures gain +2 Vitality.
+Eater of the Dead	NP	EateroftheDeadExternalCreatureCommon2.png	external	Undead             		M 	5		0			B				Y						All Creatures on both sides beaten during primary attacks are destroyed.
+Evil Baron Stoner	NP	EvilBaronStonerExternalCreatureCommon2.png	external	Wanderer           		M 	3		0			B										The Baron adds his match-up opponent's Off-Color bonus to his Vitality.
+Fan Bearer	NP	FanBearerExternalCreatureCommon2.png	external	Undead             		M 	4		1													If the Fan Bearer's primary match-up opponent is a Creature capable of flying, that Creature immediately returns to the Creature Pen.
+Fatback Chak	NP	FatbackChakExternalCreatureCommon1.png	external	Chak               		L	8	7	0													No secondary attackers may be played on this match-up by either player.
+Geldspar, Court Magician	NP	GeldsparCourtMagicianExternalCreatureCommon2.png	external	Wizard             		M 	4		1				C									While Geldspar is in play, your opponent may not play any Hand Magic Items.
+Greenback Chak	NP	GreenbackChakExternalCreatureCommon2.png	external	Chak		M	3		1													Destroys Small creatures.
+High Priest of Sethos	NP	HighPriestofSethosExternalCreatureUncom1.png	external	Undead             		M 	5		0	L						Y						Both players must immediately discard all double-bordered cards.
+High Priestess of Isis	NP	HighPriestessofIsisExternalCreatureUncom3.png	external	Undead             		M 	4		0		G		C			Y						Change the Creature Class of any of your opponent' Mortals to that of your choice during primary match-ups.
+Imhotep, Visier of Djoser	NP	ImhotepVisierofDjoserExternalCreatureUncom1.png	external	Undead             		M 	4		1													If Imhotep wins a primary match-up, you can take any one Accessory and put it in play next to your Guardian. If the Accessory is removed from play for any reason, the Accessory goes to your opponent's discard pile.
+Moheidra, Mistress of Souls	NP	MoheidraMistressofSoulsExternalCreatureCommon2.png	external	Undead             		M	0	4	0													Add the Base Vitality of you opponent's previous match-up Creature to Moheidra's Vitality.
+Mummy	NP	MummyExternalCreatureCommon2.png	external	Undead             		M 	7		0													Fear-based attack. During primary match-ups, if the Mummy beats a Creature which is affected by fear, that Creature is destroyed.
+Nubian Slave Girl	NP	NubianSlaveGirlExternalCreatureCommon2.png	external	Undead             		M 	2		0		G											When played in a primary match-up you may choose to have the Slave Girl distroyed, ending the match-up, and leaving her opponent as an Unchallenged Card in mellee. You may then add a Gold Bribery Card from your discard pile to your storage Depot. One per space, per player
+Pharaoh Djoser 	NP	PharaohDjoserExternalCreatureCommon2.png	external	Undead             		M 	2		1							Y						No Spells may be played during this combat. This ability cannot be disspelled.
+Plague Walker	NP	PlagueWalkerExternalCreatureCommon2.png	external	Undead             		M 	5		1			B										Fear-based attack. +2 to all fear-based attacks when Plague Walker is in play.
+Preist of Horus	NP	PreistofHorusExternalCreatureUncom1.png	external	Undead             		M 	5		0		G		C			Y						During any primary match-up, you may spend 1 Power Stone to empty the text box of your opponent's Creature. Doesn't affect ranged attacks.
+Priest of Sethos	NP	PriestofSethosExternalCreatureUncom1.png	external	Undead             		M 	3		1				C			Y						No Power Stones may be spent for channeling during this combat.
+Priestess of Isis	NP	PriestessofIsisExternalCreatureCommon2.png	external	Undead             		M 	12		3													+1 Vitality for each single-bordered card in your Combat Hand when the Priestess is played.
+Sebek, Queen of Magicians	NP	SebekQueenofMagiciansExternalCreatureUncom1.png	external	Undead             		M 	6		0		G		C			Y						Immediately discard any one Spell from your Storage Hand to add any one Spell from your draw deck to your Storage Hand. Reshuffle your draw deck.
+Slackback Chak	NP	SlackbackChakExternalCreatureCommon2.png	external	Chak               		M 	10		0													The Slackback must be beaten by 3 or more points of the result is a push.
+Slim Jab	NP	SlimJabExternalCreatureCommon2.png	external	Saurian/Undead     		S 	3		1			B			1							1 pt. ranged attack that is only usable when fighting an External. Opponent must discard 1 double-bordered card when Slim Jab is used as a ranged attack.
+Theib, Master of Scribes	NP	TheibMasterofScribesExternalCreatureCommon2.png	external	Undead             		M 	4		0	L						Y						If your opponent's Command Card is a Spell or Item, Theib gains that command ability and opponent's command Spell or Item is dispelled.
+Finn, Swamp King	RE	FinnSwampKingGuardianRare2.png,FinnSwampKingGuardianRare2.png	guardian				27							8			6	2	-1	0	1	During the Draw and Organize Phase, draw 1 extra card for each Swamp you control.
+Gaar, Influencer of the Masses	RE	GaarInfluenceroftheMassesGuardianRare1.png,GaarInfluenceroftheMassesGuardianRare1.png	guardian				28							5			8	3	-1	1	1	For 2 Power Stones, you can channel 5 pts. to a Creature which is not a Channeling Receiver.
+Harkin, Spreader of the Wealth	RE	HarkinSpreaderoftheWealthGuardianRare2.png,HarkinSpreaderoftheWealthGuardianRare2.png	guardian				29							6			10	3	-1	1	1	You may not repeatedly channel to the same Creature in combat. (Max 6 pts. to any one Creature.)
+Rak Nam, Leader of the Mighty	RE	RakNamLeaderoftheMightyGuardianStarter.png,RakNamLeaderoftheMightyGuardianStarter.png	guardian				30							9			7	3	-1	1	1	
+Siin, Stealer of the Power	RE	SiinStealerofthePowerGuardianStarter.png,SiinStealerofthePowerGuardianStarter.png	guardian				28							6			8	3	-1	1	1	After an opponent channels, you may cancel it for 2 Power Stones. No further channeling is allowed this combat by either combat
+Tes let, Leader with Foresight	RE	TesLetLeaderwithForesightGuardianStarter.png,TesLetLeaderwithForesightGuardianStarter.png	guardian				29							7			6	3	-1	1	1	You can choose not to take your Up-card as your first draw and instead draw from the deck.
+Thak, Steady Hand	RE	ThakSteadyHandGuardianRare2.png,ThakSteadyHandGuardianRare2.png	guardian				27							5			6	3	0	1	1	Slipping down the slope can be fatal to the weak of heart.
+Tookle, Leader of the Many	RE	TookleLeaderoftheManyGuardianRare2.png,TookleLeaderoftheManyGuardianRare2.png	guardian				27							5			7	3	-1	1	1	Draw one extra card during the Draw and Organize Phase if your Up-card was a small Creature.
+Grahzue: Lover of Vice	DI	GrahzueLoverofViceGuardianRare3.png,GrahzueLoverofViceGuardianRare3.png	guardian				29							6			8	3	-1	1	1	+1 Power Stone every time one of your creatures is bribed
+P'Tal: Keeper of the Balance	DI	PTalKeeperoftheBalanceGuardianRare2.png,PTalKeeperoftheBalanceGuardianRare2.png	guardian				26							6			5	3	-1	0	1	For 2 Power Stones, you may ignore your draw number for the turn and draw as many cards as an opponent of your choice.
+Sikura, Preceptor of  Prophets	DN	SikuraPreceptorofProphetsGuardianR2.png,SikuraPreceptorofProphetsGuardianR2.png	guardian				28							5			8	3	-1	1	1	Burn 2 Power Stones to dispell any Spell.
+Vek-Nadra, Master of Disciples	DN	VekNadraMasterofDisciplesGuardianR2.png,VekNadraMasterofDisciplesGuardianR2.png	guardian				28							6			7	2	0	0	0	During the Draw and Organize Phase, draw an extra card for each Shield you have in the disputed lands.
+Eisnmir, Master of Posessions	NP	EisnmirMasterofPosessionsGuardianCommon1.png,EisnmirMasterofPosessionsGuardianCommon1.png	guardian				26							7			5	3	-1	0	1	Draw 1 card anytime an opponent uses a Magic Item. (Errata: "Hand" item, draw "top face-down" card.)
+K'Hutek, Protector of the Fallen	NP	KHutekProtectoroftheFallenGuardianUncom2.png,KHutekProtectoroftheFallenGuardianUncom2.png	guardian				28							7			7	2	0	0	0	During the Draw and Organize Phase, draw an extra card for each Shield you have lost from play during this game.
+Ancient Tome of Dispansation	NP	AncientTomeofDispansationMagicItemAccessoryCommon1.png	item/accessory				9															Play next to your Guardian. At the beginning of the Terrain Settlement Phase, you may remove any one of your cards currently in use as a Terrain from play and add it to your Storage Hand. Usable once per turn.
+Ankh 	NP	AnkhMagicItemAccessoryCommon2.png	item/accessory				21															Play next to your Guardian. During the Terrain Settlement Phase, you may discard one card from your Storage Hand to add 1 to the number of cards you draw next turn. Usable once per turn.
+Footlocker of Conflagration	NP	FootlockerofConflagrationMagicItemAccessoryUncom2.png	item/accessory				2															Play next to your Guardian. During the Draw and Organize Phase, but before drawing cards, you may spend 1 Stone to go through your draw deck and remove one Shield, which counts as one of your card draws. Reshuffle the draw deck afterward. Up-card remains.
+Gift of Isis	NP	GiftofIsisMagicItemAccessoryCommon2.png	item/accessory				21															Play next to your Guaridan. Your Guardian's CMP is incresed by 2 for as long as the Gift of Isis is in play. If a Gift of Isis is in play, no others may be played.
+Gift of Osirus	NP	GiftofOsirusMagicItemAccessoryCommon2.png	item/accessory				21															Play next to your Guardian. Your Guardian is +3 Vitality for as long as the Gift of Osirus is in play. If a Gift of Osirus is in play, no others may be played.
+Heliopolos, Temple of Re	NP	HeliopolosTempleofReMagicItemAccessoryCommon2.png	item/accessory				21															Play next to your Guardian. Place one token on the Temple each time one of your Creatures beats an Undead opponent in combat. You may remove a token from the Temple during any match-up to add 2 Vitality to your current match-up Creature.
+Scarab of Bounty	NP	ScarabofBountyMagicItemAccessoryUncom2.png	item/accessory				21															Play next to your Guardian. +1 to your Guardian's LUC for as long as the Scarab is in play. If a Scarab of Bounty is in play, no others may be played. Costs 1 Stone to play.
+Amulet of Flying	RE	AmuletofFlyingMagicItemCreatureUncommon1.png	item/creature				16															Allows any Creature to fly. If the Creature is lost, the Amulet is lost.
+Heels of Speed	RE	HeelsofSpeedMagicItemCreatureUncommon2.png	item/creature				5															Play any Creature as a Command Creature. That Creature attacks your opponent's Command Creature before his/her command ability works. If your Creature is killed, you lose the Heels.
+Petrified Heart	DI	PetrifiedHeartMagicItemCreatureCommon3.png	item/creature				14															Allows one of your Creatures to use its Base Vitality for space limitation instead of its red Shield penalty number.
+The Black Eye	DI	TheBlackEyeMagicItemCreatureRare3.png	item/creature				17															Allows all Pirates on this space to fly.
+Altar of Takuli	DN	AltarofTakuliItemCreatureC4.png	item/creature				14															Heal one creature (after combat) for 1 Power Stone.
+Bagpipes of Fear	DN	BagpipesofFearItemCreatureU3.png	item/creature				9															Play along with ANY Creature as a Command Creature. That Creature gains a 3 pt. AOE fear attack, but loses any other command ability it may have had.
+Disc of Siin	DN	DiscofSiinItemCreatureC3.png	item/creature				6															Play as a Command Card. Roll 1d6. Your opponent can't channel against your first (1=no effect, 2=1, 3=2, 4=2, 5=3, 6=all) primary attacker(s).
+Mighty Tiki God	DN	MightyTikiGodItemCreatureU4.png	item/creature				19															Play as Command Card. Add 1d6 to your current primary match-up Creature's Vitality for each Bribery Card you discard.
+Wheel of Law	DN	WheelofLawItemCreatureU4.png	item/creature				13															Play as a Command Card. Both players must play their lowest Vitality Creature first, followed by the second lowest, etc.... Ranged attacks are allowed as normal.
+Vestibule of Kabod	NP	VestibuleofKabodMagicItemCreatureUncom1.png	item/creature				17															The vestibule allows you to ignore one small demon or devil from counting towards the space's Vitality limit. Limit 1 per space, per player
+Anvil of Heaviness	RE	AnvilofHeavinessMagicItemHandCommon1.png,CardBackDoubleBorder.png	item/hand				12															All attacks versus Creatures defending a Stronghold are +7 Vitality. Effect lasts for one combat. Play before combat starts.
+Eye of Missile Mayhem	RE	EyeofMissileMayhemMagicItemHandRare2.png,CardBackDoubleBorder.png	item/hand				15															Play after any primary attack has been resolved. All cards that you have played as ranged attacks in combat to this point return to your Combat Hand immediately.
+Hammer of Doom	RE	HammerofDoomMagicItemHandRare2.png,CardBackDoubleBorder.png	item/hand				11															Play at any time. Destroy a Terrain card of your choice.
+Holy Grail	RE	HolyGrailMagicItemHandRare2.png,CardBackDoubleBorder.png	item/hand				18															Play during the Draw and Organize Phase. All your Creatures lost that turn return to your Storage Hand. One Power Stone must be spent to use the Grail.
+Monolith of Power	RE	MonolithofPowerMagicItemHandUncommon1.png,CardBackDoubleBorder.png	item/hand				4															When played at the beginning of a turn on any space, no channeling is allowed within one space of Monolith for entire turn.
+Potion of Movement Essence	RE	PotionofMovementEssenceMagicItemHandUncommon2.png,CardBackDoubleBorder.png	item/hand				7															+1 movement to any shield that can move. This spell does not allow a Shield to move past a space that would normally stop it (an empty space, an enemy's shield, etc.) Play any time.
+Rocks of Skull Cracking	RE	RocksofSkullCrackingMagicItemHandCommon1.png,CardBackDoubleBorder.png	item/hand				9															Playable on any flying shield (while moving face-up). Kill as many flying Creatures as desired, but lose one Power Stone for each Creature destroyed.
+Rooster	RE	RoosterMagicItemHandCommon2.png,CardBackDoubleBorder.png	item/hand				7															Play at the beginning of a turn. Move first, even if you don't have the highest Up-card.
+Champs, the Wonder Dog	DI	ChampstheWonderDogMagicItemHandRare1.png,CardBackDoubleBorder.png	item/hand				19															Return any item from discard to hand for 1 stone; Champs returns as well, play during D&O
+Oppressed Slaves	DI	OppressedSlavesMagicItemHandCommon2.png,CardBackDoubleBorder.png	item/hand				2															Play after you kill a Shield in combat. Collect two Power Stones. You may only play one Oppressed Slaves card per Movement and Combat Phase.
+The Great Balderoon	DI	TheGreatBalderoonMagicItemHandCommon1.png,CardBackDoubleBorder.png	item/hand				16															Play when using a Pirate's ranged attack. The ranged attack works as normal, AND there is an immediate AOE attack of the same strength. Costs 1 Power Stone to play.
+10 Gallon Voodoo Hat	DN	10GallonVoodooHatItemHandU3.png,CardBackDoubleBorder.png	item/hand				4															Place face-up next to an opponent's Guardian during the Draw and Organize Phase. Each 10 Gallon Voodoo Hat next to a Guardian reduces the maximum size of that player's Storage Hand by 1 card. The Hat may only be removed or dispelled by burning 2 Power Stones.
+Head of Gudea	DN	HeadofGudeaItemHandR4.png,CardBackDoubleBorder.png	item/hand				22															Play at the beginning of any Phase. Cancel any one Guardian's special ability for the remainder of this turn.
+Little Voodoo Hat	DN	LittleVoodooHatItemHandR1.png,CardBackDoubleBorder.png	item/hand				20															Play next to own Guardian, get 1 Power Stone for every Stone gained by opponent (except from Little Voodoo Hat); reduces maximum Storage Hand size by 1, only dispelled by burning 2 Power Stones
+Medallion of Skyphos	DN	MedallionofSkyphosItemCreatureU2.png,CardBackDoubleBorder.png	item/hand				10															Play as a Command Card.  If your Up-card is a Small Creature, add it to your Combat Hand and make the Medallion your Up-card.
+Oscar the Wonder Chimp	DN	OscartheWonderChimpItemHandR1.png,CardBackDoubleBorder.png	item/hand				2															Return any Spell just cast to your Storage Hand for 1 Power Stone.
+Rock of Far Rolling	DN	RockofFarRollingItemHandC4.png,CardBackDoubleBorder.png	item/hand				5															Play during a primary match-up if your match-up Creature is a Giant. If your opponents Command Card is a Creature, that Creature is destroyed.
+Rosetta Stone	DN	RosettaStoneItemHandR1.png,CardBackDoubleBorder.png	item/hand				7															Play during the Terrain Settlement Phase. Take any 5 cards from your discard pile, add them to your draw deck, and reshuffle the draw deck. The Up-card remains the same. The Rosetta Stone may not be removed from your discard pile. Costs one Power Stone to play.
+Sarcophagus of Haidra	DN	SarcophagusofHaidraItemHandC4.png,CardBackDoubleBorder.png	item/hand				10															Play immediately after Up-cards have been revealed.  Add your Up-Card to your Storage Hand, replacing it with the Sarcophogus.
+Shroud of Grahzue	DN	ShroudofGrahzueItemHandR2.png,CardBackDoubleBorder.png	item/hand				13															Play immediately after a primary match-up is revealed. Opponent's non-bribable Creature immediately returns to his Creature Pen. Your Creature is considered an Unchallenged Card in melee.
+Standard of the Elements	DN	StandardoftheElementsItemHandU1.png,CardBackDoubleBorder.png	item/hand				1															Play during a primary match-up. If you have an Element as a Command Card, you may immediately use this card as a ranged attack, with a strength equal to your Command Card's Base Vitality.
+Tablet of Ancathus	DN	TabletofAncathusItemHandR1.png,CardBackDoubleBorder.png	item/hand				24															Play as a Command Card. If your first primary attacker survies combat, all of your other Creatures gain that Creature's Terrain bonus, losing any Terrain bonus that they originally had.
+Voodoo Hat	DN	VoodooHatItemCreatureR2.png,CardBackDoubleBorder.png	item/hand				5															Play on any Shield in the disputed lands during the Terrain Settlement Phase. This Shield may not enter a Stronghold Card. The Voodoo Hat may only be removed or dispelled by burning 2 Power Stones.
+40,000 Useless Warhammers	NP	40000UselessWarhammersMagicItemHandUncom1.png,CardBackDoubleBorder.png	item/hand				25															Play as a Command Card. All non-Guardian Creatures are considered to have a Base Vitality of 0 for this combat.
+Obelisk of Bablos	NP	ObeliskofBablosMagicItemHandUncom3.png,CardBackDoubleBorder.png	item/hand				4															Play as a Command Card. Both players reveal their total Combat Hand Vitality. If opponent's total is higher, he must immediately discard at least 5 Vitality points worth of creatures. Does not affect Guardians.
+Voodoo Hat Rack	NP	VoodooHatRackMagicItemHandCommon2.png,CardBackDoubleBorder.png	item/hand				29															Play during the Terrain Settlement Phase. For each Power Stone you burn, discard one Accessory or Voodoo Hat from play. The Hat Rack works versus any type of Voodoo Hat in play.
+Agent of Shadow	RE	AgentofShadowMortalShadowBrotherhoodRare1.png	mortal	Shadow Brotherhood 		M 	7		0							Y						May only be played as a command card when defending. When played, combat is shifted to the space your oppnt cam from.
+Ancient Ogre	RE	AncientOgreMortalOgreRare2.png	mortal	Ogre               		L 	13		2	L												No channeling vs. Ogre. Opponent cannot channel to any Creature in combat if Ancient Ogre is in play and unbeaten.
+Archer	RE	ArcherMortalKnightCommon1.png	mortal	Knight             		M 	6		0		G				3							3  pt. ranged attack
+Axeman	RE	AxemanMortalKnightUncommon2.png	mortal	Knight             		M 	7		4		G											The roar of a heartbeat deafens the soul to the chaos that reigns in the mind. The Warriors Credo - St. Ballantine.
+Babe Hound	RE	BabeHoundMortalAnimalCommon1.png	mortal	Animal             		M 	2		0							Y						Each of your Creatures fighting an opponent who can be bribed by Babes receives +4 Vitality.
+Big Groaning Cankerd	RE	BigGroaningCankerdMortalCankerdUncommon1.png	mortal	Cankerd            		M 	8		1		G											+3 vs. Creatures affected by fear.
+Brap Back Goblins	RE	BrapBackGoblinsMortalGoblinUncommon1.png	mortal	Goblin             		S 	4		0		G											If opponent in match-up was a large creature, then the large creature's Vitality doesn't count toward control of the space.
+Brown Backs	RE	BrownBacksMortalGoblinCommon1.png	mortal	Goblin             		S 	3		0		G											+4 Vitality vs. large Creatures.
+Bruce the Goose	RE	BrucetheGooseMortalAnimalRare1.png	mortal	Animal             	F	S	1	5	0			B				Y						In the first match-up, play your Creature before your opponent. Opponent must play the highest Base Vitality Creature that yours can beat. Both sides may then try to modify combat through ranged attacks, channeling, etc....
+Bulbous Clamjack	RE	BulbousClamjackMortalClamjackCommon1.png	mortal	Clamjack           		M 	5		1		G											When in Swamps, your enemy must beat you by at least 5 pts. or the match-up is a push.
+Bungee Bony Ridged	RE	BungeeBonyRidgedMortalGoblinUncommon1.png	mortal	Goblin             		S 	2		0		G											When played, opponent must discard all unplayed Goblins and Idiots in his/her Combat Hand.
+Captain	RE	CaptainMortalKnightCommon1.png	mortal	Knight             		M 	10		5	L												Immune to fear
+Captain Red Nose	RE	CaptainRedNoseMortalPirateRare2.png	mortal	Pirate             		M 	15		5	L	G	B										+4 Vitality to all your Pirates when Captain Red Nose is in play. Only one Pirate Captain per space per player.
+Cave Giant	RE	CaveGiantMortalGiantCommon1.png	mortal	Giant              		L 	12		5			B										When attacking a Stronghold, the Cave Giant's match-up opponent loses its Stronghold bonus.
+Cleric	RE	ClericMortalWizardUncommon1.png	mortal	Wizard             		M	4	6	0		G		C									Can heal one Mortal.
+Corporal	RE	CorporalMortalKnightCommon1.png	mortal	Knight             		M 	8		4	L												Immune to fear.
+Cow	RE	CowMortalBarnyardAnimalRare2.png	mortal	Barnyard Animal    		M 	2		0													3 pt. AOE methane attack. All affected Creatures can't attack and don't count toward victory, but can be attacked by secondary attackers.
+Desert Giant	RE	DesertGiantMortalGiantCommon1.png	mortal	Giant              		L 	14		5			B										Immune to fire.+4 in Dry Heaps
+Drooling Clamjack	RE	DroolingClamjackMortalClamjackCommon1.png	mortal	Clamjack           		S 	2		0			B										If beaten in combat, secondary attackers get a +4 Vitality instead of the normal +2.
+Elder Cave Giant	RE	ElderCaveGiantMortalGiantUncommon2.png	mortal	Giant              		L 	14		6			B										When attacking Stronghold, the Cave Giant's match-up opponent loses its Stronghold bonus.
+Floyd the Flying Pig	RE	FloydtheFlyingPigMortalBarnyardAnimalUncommon2.png	mortal	Barnyard Animal    	F	L	2		0							Y						All of your creatures are +2 Vitality. When played as a Command Card, Floyd is also destroyed.
+Gn'Obby Gnomes	RE	GnObbyGnomeMortalGnomeUncommon1.png	mortal	Gnome              		S 	4		0		G											The fountain of wisdom flows freely. Any that sample it may get more than their cup can hold.
+Gn'Olegable Gnomes	RE	GnOlegableGnomesMortalGnomeRare2.png	mortal	Gnome              		S 	5		0		G					Y						All your small Creatures receive +2 Vitality.
+Gn'Omish Gnomes	RE	GnOmishGnomesMortalGnomeCommon1.png	mortal	Gnome              		S 	4		1		G											+3 in the woods
+Grand Avatar	RE	GrandAvatarMortalWizardRare1.png	mortal	Wizard             		M	6	12	1		G		C	6								Can only accept channeling from the Guardian.
+Great Fanged Ogre	RE	GreatFangedOgreMortalOgreUncommon1.png	mortal	Ogre               		L 	13		4	L												No Channeling vs. Great Fanged. All your Ogres are +3 Vitality for each Great Fanged in play.
+Greedy Fiend	RE	GreedyFiendMortalFiendUncommon2.png	mortal	Fiend              		M 	1		0		G											No bribery by Gold allowed once the Greedy Fiend is in play unless Greedy Fiend is bribed first.
+Grilbus	RE	GrilbusMortalSlagBeastCommon1.png	mortal	Slag Beast         		M 	6		2													'+2 in Dry Heaps
+Gringe Commander	RE	GringeCommanderMortalSlagBeastRare2.png	mortal	Slag Beast         		M 	5		1		G					Y						All your Slag Beasts are +3 Vitality; this ability can't be dispelled. Only one Gringe Commander per space per player.
+Gunner	RE	GunnerMortalPirateCommon1.png	mortal	Pirate             		M	4	6	0	L	G	B			4							4 pt. ranged attack
+Haba Naba Daba  	RE	HabaNabaDabaMortalGoblinRare2.png	mortal	Goblin             		S 	5		2		G											Infernal racket confuses opponent.  Opponent in match-up loses any AOE atack.
+Haba Naba Kaba   	RE	HabaNabaKabaMortalGoblinCommon1.png	mortal	Goblin             		S 	4		2		G											When played, Infernal Racket stops opponent from using any ranged attacks.
+Horse	RE	HorseMortalBarnyardAnimalCommon1.png	mortal	Barnyard Animal    		L 	3		0							Y						Your first Knight played receives +6 Vitality.
+Huge Rock Giant	RE	HugeRockGiantMortalGiantUncommon2.png	mortal	Giant              		L 	16		2			B			6							+2 in the mountains
+Ice Ogre	RE	IceOgreMortalOgreCommon1.png	mortal	Ogre               		L 	9		2	L												No channeling vs. Ogre.+2 in the mountains
+Idiot	RE	IdiotMortalMisc.HumanRare2.png	mortal	Misc. Human		M	0		0	L	G	B										Dum Dee Dum, Dum Dee Dum, Dum Dee Dum, aahhh‚Äö√Ñ¬∂
+Idiot Fiend	RE	IdiotFiendMortalFiendUncommon1.png	mortal	Fiend              		M 	6		0													8 pt. fear AOE attack that only affects Fairies. +4 Vitality vs. Fairies.
+Jibber	RE	JibberMortalPirateCommon1.png	mortal	Pirate             		M 	7		4	L	G	B										+1 in rivers and lakes
+Lancer	RE	LancerMortalKnightUncommon1.png	mortal	Knight             		M 	10		4			B										+10 vs. Large Creatures; -7 vs. Small Creatures.
+Mad Fiend	RE	MadFiendMortalFiendUncommon2.png	mortal	Fiend              		M 	1		0			B										No bribery by Beer allowed once the Mad Fiend is in play unless the Mad Fiend is bribed first.
+Major Party Animal	RE	MajorPartyAnimalMortalAnimalUncommon1.png	mortal	Animal        		L	4		0							Y						All creatures that can be bribed by beer can't fight and don't count towards control of the space (both sides). They can be attacked by secondary attackers
+Marshal	RE	MarshalMortalKnightUncommon1.png	mortal	Knight             		M 	11		4		G											+2 Vitality to all your Knights played while the Marshal is in play. Immune to fear.
+Master Gunner	RE	MasterGunnerMortalPirateUncommon1.png	mortal	Pirate             		M	6	8	1	L	G	B			5							5 pt. ranged attack.
+Merchant	RE	MerchantMortalMisc.HumanUncommon1.png	mortal	Misc. Human        		M	1	4	0	L												Destroys any Creature which can be bribed by Gold.
+Mule	RE	MuleMortalBarnyardAnimalCommon1.png	mortal	Barnyard Animal    		M 	2		0													Counts as 4 Vitality for control of space.
+Na'Boob	RE	NaBoobMortalSlagBeastRare1.png	mortal	Slag Beast         		L 	12		3													Immune to small creatures.+2 in Dry Heaps
+Paladin	RE	PaladinMortalKnightRare2.png	mortal	Knight             		M 	14		2				C									+4 Vitality to all your Knights played while Paladin is in play. All Mortals played after Paladin are immune to fear.
+Party Animal	RE	PartyAnimalMortalAnimalRare2.png	mortal	Animal             		M	1	4	0													Immune to any Creature that can be bribed.
+Pauly, Official Parrot	RE	PaulyOfficialParrotMortalPirateRare2.png	mortal	Pirate             	F	S	1		0							Y						Look at any one card in your opponent's Combat Hand.  If ANY of your Pirates survive, Pauly returns to your Shield. One per space per player.
+Pesky Varmit	RE	PeskyVarmitMortalVarmitCommon1.png	mortal	Varmit             		S 	3		0		G											+3 Vitality vs. medium-sized Creatures.
+Pig Dog	RE	PigDogMortalAnimalUncommon1.png	mortal	Animal             		L 	5		0		G											If you bribe with Babes while Pig Dog is in play, return Babes to your Storage Hand.
+Pink Flamingos	RE	PinkFlamingosMortalAnimalRare1.png	mortal	Animal             		L 	29		0			B										All Creatures are immune to Pink Flamingoes.
+Ploogak the Conqueror	RE	PloogaktheConquerorMortalSlagBeastRare2.png	mortal	Slag Beast         		M 	4		0													If Ploogak is alive after combat, add +2 Vitality to each living Slag Beast for control of the space. One per space per player.
+Polar Ice Ogre	RE	PolarIceOgreMortalOgreUncommon1.png	mortal	Ogre               		L 	10		0	L												No channeling vs. Polar Ice Ogre. +2 in the mountains
+Reverend Smilin' Jack	RE	ReverendSmilinJackMortalMisc.HumanRare2.png	mortal	Misc. Human        		M 	2		0	L	G	B				Y						If on a "face down" Terrain card that was once your Creature, you may use it in combat. After combat, any unbeaten Creature from your Shield may be used as Terrain.
+Rock Giant	RE	RockGiantMortalGiantCommon1.png	mortal	Giant		L	14		3		B				4							6 pt. ranged attack. +2 in the mountains
+Seer	RE	SeerMortalWizardCommon2.png	mortal	Wizard             		M 	5		0		G		C			Y						For the duration of combat, your opponent must declare the Size of Creatures in match-ups before you pick your Creatures.
+Shadow Spy	RE	ShadowSpyMortalShadowBrotherhoodUncommon1.png	mortal	Shadow Brotherhood 		M 	3		0				C			Y						Randomly pick the order that your opponent plays his cards in combat. He may used ranged attacks and secondary attackers normally.
+Shadow Warrior	RE	ShadowWarriorMortalShadowBrotherhoodRare2.png	mortal	Shadow Brotherhood 		M 	9		0							Y						Shadow Warrior may attack with +2 Vitality opponent's Up-Card provided it is a Creature. Opponent draws one less card next turn if Up-card is beaten.
+Slag Bunny	RE	SlagBunnyMortalSlagBeastUncommon1.png	mortal	Slag Beast         		M 	6		0		G											Immune to creatures that can be bribed by Babes. Can heal one Slag Beast. One per Slag Bunny per space per player.
+Sloarch	RE	SloarchMortalSlagBeastUncommon1.png	mortal	Slag Beast		M	14		3													+7 in Dry Heaps
+Snibs Bony Ridged	RE	SnibsBonyRidgedMortalGoblinUncommon1.png	mortal	Goblin             		S 	3		0		G			2								Can channel to Goblins only - even to Goblins that normally cannot accept channeling.
+Snogwart	RE	SnogwartMortalSlagBeastCommon1.png	mortal	Slag Beast         		M 	8		2													+3 in Dry Heaps
+Sorcerer	RE	SorcererMortalWizardRare2.png	mortal	Wizard             		M 	8		0		G		C			Y						4 pt. AOE fireball.
+Speckled Clamjack	RE	SpeckledClamjackMortalClamjackCommon1.png	mortal	Clamjack           		S 	6		1			B										+3 in the swamp
+Super Model	RE	SuperModelMortalMisc.HumanUncommon1.png	mortal	Misc Human         		M	1	4	0		G											Destroys any Creature bribable by Babes.
+Swordsman	RE	SwordsmanMortalKnightCommon2.png	mortal	Knight             		M 	6		3		G											The deceptions os steel are short-lived and the finality of truth is mutable. Only honor is the rock of certainty.
+Thackle	RE	ThackleMortalSlagBeastCommon1.png	mortal	Slag Beast         		L 	12		4													+4 in Dry Heaps
+Ugly Wart Fiend	RE	UglyWartFiendMortalFiendUncommon2.png	mortal	Fiend              		M 	1		0	L												No bribery by Babes allowed once Ugly Wart Fiend is in play unless the Ugly Wart Fiend is bribed first.
+Vampire Hunters	RE	VampireHuntersMortalMisc.HumanCommon1.png	mortal	Misc. Human        		M 	8		1	L												+10 Vitality vs. Undead.
+Varmit Archer	RE	VarmitArcherMortalVarmitCommon1.png	mortal	Varmit             		S 	2		0		G				1							1 pt. ranged attack
+Visionary	RE	VisionaryMortalWizardCommon2.png	mortal	Wizard             		M 	5		0		G		C			Y						For the duration of combat, your opponent must declare the Type (border color) of Creatures in match-ups before you pick your Creatures.
+Watcher	RE	WatcherMortalUncommon1.png	mortal			L	20		8													+4 in rivers and lakes
+Yard Rat	RE	YardRatMortalPirateUncommon2.png	mortal	Pirate		M	5		3	L	G	B										'+1 in rivers and lakes
+Buzzard	DI	BuzzardMortalBarnyardAnimalCommon4.png	mortal	Barnyard Animal    	F	S	3		0			B										+1 Vitality when used as a secondary attacker.
+Cabin Boy	DI	CabinBoyMortalPirateCommon4.png	mortal	Pirate             		M 	4		1	L	G	B										If an opponent tries to bribe one of your Pirates whie the Cabin Boy is in your combat hand, you can send the Cabin Boy to your Creature Pen instead.
+Captain Hannibal Hawks	DI	CaptainHannibalHawksMortalPirateRare2.png	mortal	Pirate             		M 	11		1	L	G	B										If the Captain is in play and unbeaten after primary attacks, you may choose to retreat your Shield and all unbeaten Creatures with it. Only one Captain per space, per player.
+Caring Guy	DI	CaringGuyMortalGuyCommon4.png	mortal	Guy                		M 	4		1	L												Immune to fear. +1 Vitality to Mortals on both sides while the Caring Guy is in play.
+Eagle-Eye McFinny	DI	EagleEyeMcFinnyMortalPirateRare3.png	mortal	Pirate             		M 	2		0	L	G	B				Y						+2 to all your ranged attacks.
+Fangis the Hunter	DI	FangistheHunterAnimalMortalAnimalCommon34.png	mortal	Animal             		M 	8		0													+6 Vitality vs. Externals. (Errata applies - Henchman type is misprint)
+Fangis the Hunter	DI	FangistheHunterHenchmanMortalHenchmanCommon14.png	mortal	Henchman		M 	8		0													+6 Vitality vs. Externals. (Errata applies - Henchman type is misprint)
+Farmer Brown	DI	FarmerBrownMortalMisc.HumanRare1.png	mortal	Misc Human         		M	6	10	0		G					Y						Detonate any Barnyard Animal during primary attacks to destroy both match-up Creatures; doesn't work on Guardians
+First Mate Muldoon	DI	FirstMateMuldoonMortalPirateCommon2.png	mortal	Pirate             		M 	6		2	L	G	B										Allows any non-flying, all-Pirate Shield to move one extra space, obeying all normal movement rules. Must show your opponent the Shield's contents when moving the extra space.
+Giant Aunts	DI	GiantAuntsMortalGiantCommon2.png	mortal	Giant              		L 	8		3			B										If the Giants Aunts win a primary match-up over an enemy's Stronghold card, the card immediately turns to rubble.
+Great Ba'te	DI	GreatBateMortalBateCommon1.png	mortal	Ba'te              		L 	24		6													Immune to secondary attacks from Elementals.
+Great Black Ri'shar	DI	GreatBlackRisharMortalRisharRare3.png	mortal	Ri'shar            	F	L	17		0													3 pt. AOE fear attack.
+Groatie	DI	GroatieMortalSlagBeastRare4.png	mortal	Slag Beast         		S 	3		1		G											+1 in Dry Heaps
+Gumbo Jake	DI	GumboJakeMortalMisc.HumanCommon2.png	mortal	Misc. Human        		M 	6		1			B										If Jake wins a primary match-up over an opponent's terrain space, his/her terrain card is immediately discarded.
+Hook Toed Gnasher	DI	HookToedGnasherMortalGnasherCommon2.png	mortal	Gnasher            		L 	12		3	L												If the Hook Toed Gnasher beats a small Creature during primary attacks, the small Creatures is destroyed.
+Knife of Shadow	DI	KnifeofShadowMortalShadowBrotherhoodCommon4.png	mortal	Shadow Brotherhood 		M	5	7	3							Y						If opponent's Up-Card is Creature, pick a card from his/her combat hand.  Compare its Base Vitality to the Base Vitality of that opponent's Up-card.  If the Up-card is lower, the card you picked is destroyed.
+Lying Scum	DI	LyingScumMortalPirateCommon4.png	mortal	Pirate             		M 	3		1	L	G	B										Counts as 4 Vitality for control of a space.
+Manly Guy	DI	ManlyGuyMortalGuyCommon1.png	mortal	Guy                		M 	8		0		G											Treat the text box on the Manly Guy's primary match-up opponent as empty for the duration of the combat.
+Necromancer	DI	NecromancerMortalWizardRare2.png	mortal	Wizard		M	5	8	0	L				5								Channels to Undead only.
+Rotten Guy	DI	RottenGuyMortalGuyCommon2.png	mortal	Guy		M	7	6	0		G											To wade the pools of malcontent is to acknowledge the loss of what could be.
+Scurvy Dog	DI	ScurvyDogMortalPirateRare3.png	mortal	Pirate             		S 	4		0						3							3 pt. ranged attack which can only be used if your current primary attacker is a Pirate
+Voodoo Wizard	DI	VoodooWizardMortalWizardCommon4.png	mortal	Wizard             		M 	3		0	L			C			Y						+4 Vitality to all of your secondary attackers.
+Weasly Guy	DI	WeaslyGuyMortalGuyCommon3.png	mortal	Guy                		M 	4		0	L	G	B										If the Weasly Guy loses a primary match-up by more than 4 Vitality, he immediately returns to your Creature Pen.
+Al' Jabah	DN	AlJabahMortalCreatureU1.png	mortal	Misc. Human        		M 	3		1		G					Y						If your opponent has more than one of the same Creature in his Combat Hand, they all immediately become Unchallenged Cars in melee. (Hey, you gotta dance.)
+Annoying Gnats in the Hood	DN	AnnoyingGnatsintheHoodMortalCreatureC4.png	mortal	Bug                		S 	3		0													Immune to fear and fire. 1 pt AOE fear attack, +1 pt. to the AOE for every other Bug you have in play.
+Arnath, Lord of the Skies	DN	ArnathLordoftheSkiesMortalCreatureU1.png	mortal	Knight             	F	L	6		0		G											Destroys any Creature which has the ability to fly.
+Black Locust	DN	BlackLocustMortalCreatureR1.png	mortal	Tragic/Bug         		S 	1		0							Y						Whichever player outbids the other in power stones wins control of this space.Locust's owner must start the biding at 1 power Stone.The winner must burn the number of stones he bids.Combat is cancelled and the Locust is discarded.Limit one per space per player
+Bruno Smashmouth, Union Boss	DN	BrunoSmashmouthUnionBossMortalCreatureC1.png	mortal	Misc. Human        		M 	5		1	L	G	B										While Bruno is in play, if any of your primary attackers matches up against a Creature from the same class, your opponent's Creature returns to his Creature Pen.
+Buzz, Vampire Mosquito	DN	BuzzVampireMosquitoMortalCreatureU3.png	mortal	Bug/Undead         	F	S	3		0				C									If Vampire beats an oppoent who has accepted channeling in this combat, your opponent loses 1 Power Stones.
+Caddy	DN	CaddyMortalCreatureC1.png	mortal	Giant              		L 	18		9		G											Destroys Gopher.
+Carrag the Black	DN	CarragtheBlackMortalCreatureR2.png	mortal	Wizard             		M 	5		0	L												+1 Vitality for each Undead in your discard pile.
+Chickenhead McCracken	DN	ChickenheadMcCrackenMortalCreatureU1.png	mortal	Outlaw             		M 	4		1		G											When Chickenhead is revealed as your Up-card, you may immediately remove up to 3 Gold Bribery Cards from your draw deck and add them to your Storage Hand. Reshuffle your draw deck afterwards.
+Clamjack Bomber	DN	ClamjackBomberMortalCreatureC3.png	mortal	Clamjack           		S 	4		1			B			3							3 pt. ranged attack that only works in Swamps.
+Crackhatch, at Large	DN	CrackhatchatLargeMortalCreatureU1.png	mortal	Slag Beast         		L 	17		0													Immune to ranged attacks, +8 Vitality vs. Externals.
+Dead-eye McGrue	DN	DeadeyeMcGrueMortalCreatureU3.png	mortal	Outlaw             		M 	5		1													Destroys any Creature which has a ranged attack.
+Eats, Cockroach King	DN	EatsCockroachKingMortalCreatureU2.png	mortal	Bug                		S	2	4	1	L												Immune to any Creature with an Off-Color Bonus of zero. Immune to fire.
+Giant Babe	DN	GiantBabeMortalCreatureC1.png	mortal	Giant              		L 	10		0		G											+10 Vitality vs. Creatures bribable by Babes.
+Giant Shaman	DN	GiantShamanMortalCreatureR3.png	mortal	Giant              		L 	4		0	L			C									While the Shaman is in play, all Giants can receive channeling, even if they normally cannot receive channeling.
+Goat	DN	GoatMortalCreatureU3.png	mortal	Barnyard Animal    		S 	4		0			B										If the Goat beats its primary match-up Creature, your opponent loses 1 Power Stone.
+Golden Fleecer	DN	GoldenFleecerMortalCreatureU3.png	mortal	Misc. Human        		M 	5		1		G											Destroys any Creature with the ability to destroy another Creature.  Fleecer cannot be destroyed.
+Golfer	DN	GolferMortalCreatureU2.png	mortal	Misc. Human        		M 	6		1	L		B			9							9 pt. ranged attack which can only be used against Large creatures.
+Gopher	DN	GopherMortalCreatureU4.png	mortal	Animal             		S 	3		1	L												If Gopher survives combat over an opponent's Terrain Card, immediately flip the Terrain Card to make it a Face-down Terrain. Destroys Golfer.
+Icky Bugs	DN	IckyBugsMortalCreatureC3.png	mortal	Bug                		S 	2		1		G											+4 Vitality vs. Creatures bribable by Gold.
+Jalupee Lobo	DN	JalupeeLoboMortalCreatureU4.png	mortal	Animal             		S 	1		1		G	B				Y						After both sides have picked, but not shown, match-up cards, you must guess the size of your opponent's Creature (S, M, or L). If you guess correctly, add 2 Vitality to your Creature's Vitality.
+Lizards of the Toast	DN	LizardsoftheToastMortalCreatureR3.png	mortal	Tragic             		S 	4		0	L												When the Lizards are played as a primary attacker, your opponent must show you all double-bordered cards in his Storage Hand and discard all Gold Bribery Cards.
+Phil, Bar Fly	DN	PhilBarFlyMortalCreatureC2.png	mortal	Bug                	F	S	3		1			B										+1 Vitality for each other Creature bribable by Beer in play
+Prince of the Lost	DN	PrinceoftheLostMortalCreatureC2.png	mortal	Knight		M	16		8		G											'+2 in Dry Heaps
+Professor Heisenburg	DN	ProfessorHeisenburgMortalCreatureR2.png	mortal	Misc. Human        		M 	1		1	L						Y						During primary match-ups, whenever you play a ranged attack, you may choose to roll 1d6. On a 5+, both your ranged attacker and its match-up opponent are destroyed.
+Red Master of Shadow	DN	RedMasterofShadowMortalCreatureC3.png	mortal	Shadow Brotherhood 		M 	6		0													If the Red Master survives a combat over an opponent's non-rubbled Stronghold Card, that opponent loses two random cards from his Creature Pen.
+River Giant	DN	RiverGiantMortal.png	mortal	Giant              		L 	12		3			B										When in Rivers and Lake, River Giant is immune to Elementals.
+Soggybottom Gertz	DN	SoggybottomGertzMortalCreatureR3.png	mortal	Outlaw             		M 	9		0			B										If Gertz is beaten in a match-up, you may immediately replace Gertz with any other Creature from your Combat Hand. The replacement Creature is considered beaten. Gertz returns to your Combat Hand.
+Tanniker Smith	DN	TannikerSmithMortalCreatureC1.png	mortal	Outlaw             		M 	7		0		G											+5 in Dry Heaps
+Thief of Shadow	DN	ThiefofShadowMortalCreatureU4.png	mortal	Shadow Brotherhood 		M 	5		0				C									If the Thief survives a combat over an opponent's non-rubbled Stronghold Card, your opponent loses 2 Power Stones.
+Tree Ogre	DN	TreeOgreMortalCreatureC2.png	mortal	Ogre		L	13		2	L												No channeling vs. Ogre.+4 in the woods
+Urufa, Queen of Goblins	DN	UrufaQueenofGoblinsMortalCreatureR4.png	mortal	Goblin             		S 	3		0		G					Y						In primary match-ups, your Goblins must be beaten by at least 5 pts. or the result is a push.
+Zelda, Bag Lady Bug	DN	ZeldaBagLadyBugMortalCreatureC2.png	mortal	Bug                		S 	2		0		G		C									+4 Vitality for each Item discarded from your Storage Hand.
+Blue Mountain Leechfoot	NP	BlueMountainLeechfootMortalCreatureUncom3.png	mortal	Leechfoot          		S 	8		1			B										If Leechfoot is beaten during primary match-ups, opponent must spend 1 Power Stone or Leechfoot returns to your Creature Pen at the end of combat.
+Buffy, Evil Hornbag	NP	BuffyEvilHornbagMortalCreatureUncom2.png	mortal	Hornbag            		M 	5		1		G											If Buffy survives her primary match-up, your opponent must show you all double-bordered cards in his Storage Hand and discard all of his Beer Bribery cards.
+Festus	NP	FestusMortalCreatureCommon2.png	mortal	Misc. Human        		M 	9		0			B										When fighting in Mountains, Festus destroys Externals.
+Humahuma	NP	HumahumaMortalCreatureCommon2.png	mortal	Misc. Human		M	1		0		G											Destroys Saurians.
+Ishtar, Queen of the Heap	NP	IshtarQueenoftheHeapMortalCreatureUncom1.png	mortal	Slag Beast         		M	3	9	0		G			5								channels to slag beasts only, even those that normally cannot accept channeling
+Judge Dredge 	NP	JudgeDredgeMortalCreatureUncom3.png	mortal	O-Men              		M 	6		2			B				Y						If this combat takes place on a Swamp, you gain 1 Power Stone.
+Kurgan, Blademaster of the Exiled 	NP	KurganBlademasteroftheExiledMortalCreatureCommon2.png	mortal	Knight             		M 	5		1		G	B										If this card is the only Knight in play, add +4 to Kurgan's Vitality. Immune to fear.
+Lucinda, Evil Hornbag	NP	LucindaEvilHornbagMortalCreatureUncom2.png	mortal	Hornbag            		L	5		1			B										If lucinda survives her primary match-up, your opponent must show you all double-bordered cards in his Storage Hand and discard all of his Gold Bribery Cards
+Mayor McEvil	NP	MayorMcEvilMortalCreatureCommon2.png	mortal	Mayor              		L 	5		1	L						Y						2 pt. AOE methane attack, +1 pt. for each Barnyard Animal immediately discarded from your Combat Hand.
+Mayor McFood	NP	MayorMcFoodMortalCreatureUncom1.png	mortal	Mayor              		L 	4		0			B				Y						No Barnyard Animals may be used during this combat. Set them off to one side of the combat. They do not count toward control of the space, but CAN be attacked by secondary attackers.
+Mayor McGreed	NP	MayorMcGreedMortalCreatureCommon2.png	mortal	Mayor              		L 	3		1		G					Y						You can use any Gold Bribery Card in your Storage Hand as a ranged attack witha point value equal to its Up-number, but only if your primary match-up Creature is a Barnyard Animal.
+Odious Clamjack	NP	OdiousClamjackMortalCreatureCommon2.png	mortal	Clamjack           		S 	6		0			B										2 pt. AOE, +1 point to the AOE for every Swamp in play.
+Rye Beaner	NP	RyeBeanerMortalCreatureUncom2.png	mortal	Local              		M 	-5		11	L	G	B	C			Y						Must be played as your Command Card. 3 pt. fire AOE that affects YOUR OWN Combat Hand. One local per space, per player.
+Sales Weasel	NP	SalesWeaselElementalCreatureUncom3.png	mortal	Animal             		S 	4		0		G											When the Weasel is your primary attacker, your opponent must burn a Power Stone or the Weasel gains +6 Vitality.
+Scamp Jones	NP	ScampJonesMortalCreatureUncom2.png	mortal	Local              		M 	-3		10	L	G	B	C			Y						Must be played as your Command Card. Does nothing. One Local per space, per player.
+Silver Server 	NP	SilverServerMortalCreatureCommon2.png	mortal	O-Men              	F	M	7		0													+3 Vitality when fighting on a Terrainless disputed land space.
+Sneaky Varmit	NP	SneakyVarmitMortalCreatureCommon2.png	mortal	Varmit             		S 	3		0		G											If Sneaky Varmit survives its primary match-up, opponent must discard one random card from his Creature Pen, if possible.
+Squibby	NP	SquibbyMortalCreatureUncom1.png	mortal	Slag Beast         		S 	2		0													When Squibby is revealed as your Up-Card, you may immediately add Squibby to any of your Shields currently on The Dry Heaps Terrain and reveal a new Up-Card.
+The Minx	NP	TheMinxMortalCreatureCommon2.png	mortal	Animal             		M 	4		1		G											If the Minx's primary match-up opponent is bribeable by Babes, the Minx immediately returns to your Combat Hand. Opponent's Creature remains as an Unchallenged Card in melee.
+Tiny Whining Cankerd	NP	TinyWhiningCankerdMortalCreatureCommon2.png	mortal	Cankerd            		S 	5		2		G											+5 Vitality vs. Creatures which are immune to fear.
+Wanda, Evil Hornbag	NP	WandaEvilHornbagMortalCreatureUncom2.png	mortal	Hornbag            		M 	5		1		G											If Wanda survives her primary match-up, your opponent must show you all double-bordered cards in his Storage Hand and discard all of his Babes Bribery cards.
+Shield Brom's Angelic 08	RE	ShieldBromsAngelic083ShieldStarter.png	shield				8															
+Shield Brom's Angelic 09	RE	ShieldBromsAngelic09ShieldStarter.png	shield				9															
+Shield Brom's Angelic 10	RE	ShieldBromsAngelic10ShieldStarter.png	shield				10															
+Shield Brom's Angelic 11	RE	ShieldBromsAngelic11ShieldStarter.png	shield				11															
+Shield Brom's Angelic 12	RE	ShieldBromsAngelic123ShieldStarter.png	shield				12															
+Shield Brom's Demonic 04	RE	ShieldBromsDemonic04ShieldStarter.png	shield				4															
+Shield Brom's Demonic 08	RE	ShieldBromsDemonic082ShieldStarter.png	shield				8															
+Shield Brom's Demonic 10 	RE	ShieldBromsDemonic103ShieldStarter.png	shield				10															
+Shield Brom's Demonic 12	RE	ShieldBromsDemonic12ShieldStarter.png	shield				12															
+Shield Brom's Demonic 14	RE	ShieldBromsDemonic142ShieldStarter.png	shield				14															
+Shield Brom's Dragon 07	RE	ShieldBromsDragon07ShieldStarter.png	shield				7															
+Shield Brom's Dragon 09	RE	ShieldBromsDragon09ShieldStarter.png	shield				9															
+Shield Brom's Dragon 10	RE	ShieldBromsDragon104ShieldStarter.png	shield				10															
+Shield Brom's Dragon 11	RE	ShieldBromsDragon11ShieldStarter.png	shield				11															
+Shield Brom's Dragon 13	RE	ShieldBromsDragon132ShieldStarter.png	shield				13															
+Shield Brom's Skull 06	RE	ShieldBromsSkull06ShieldStarter.png	shield				6															
+Shield Brom's Skull 07	RE	ShieldBromsSkull07ShieldStarter.png	shield				7															
+Shield Brom's Skull 08	RE	ShieldBromsSkull08ShieldStarter.png	shield				8															
+Shield Brom's Skull 09	RE	ShieldBromsSkull09ShieldStarter.png	shield				9															
+Shield Brom's Skull 10	RE	ShieldBromsSkull10ShieldStarter.png	shield				10															
+Shield Brom's Skull 11	RE	ShieldBromsSkull11ShieldStarter.png	shield				11															
+Shield Brom's Skull 12	RE	ShieldBromsSkull12ShieldStarter.png	shield				12															
+Shield Brom's Skull 13	RE	ShieldBromsSkull13ShieldStarter.png	shield				13															
+Shield Brom's Skull 14	RE	ShieldBromsSkull14ShieldStarter.png	shield				14															
+Shield Maitz's Insect 06	RE	ShieldMaitzsInsect06ShieldStarter.png	shield				6															
+Shield Maitz's Insect 07	RE	ShieldMaitzsInsect07ShieldStarter.png	shield				7															
+Shield Maitz's Insect 08	RE	ShieldMaitzsInsect08ShieldStarter.png	shield				8															
+Shield Maitz's Insect 10	RE	ShieldMaitzsInsect102ShieldStarter.png	shield				10															
+Shield Maitz's Insect 11	RE	ShieldMaitzsInsect11ShieldStarter.png	shield				11															
+Shield Maitz's Insect 12	RE	ShieldMaitzsInsect12ShieldStarter.png	shield				12															
+Shield Maitz's Insect 13	RE	ShieldMaitzsInsect13ShieldStarter.png	shield				13															
+Shield Maitz's Insect 14	RE	ShieldMaitzsInsect143ShieldStarter.png	shield				14															
+Shield Maitz's Lightning 02	RE	ShieldMaitzsLightning02ShieldStarter.png	shield				2															
+Shield Maitz's Lightning 05	RE	ShieldMaitzsLightning05ShieldStarter.png	shield				5															
+Shield Maitz's Lightning 09	RE	ShieldMaitzsLightning09ShieldStarter.png	shield				9															
+Shield Maitz's Lightning 10	RE	ShieldMaitzsLightning102ShieldStarter.png	shield				10															
+Shield Maitz's Lightning 12	RE	ShieldMaitzsLightning12ShieldStarter.png	shield				12															
+Shield Maitz's Lightning 14	RE	ShieldMaitzsLightning143ShieldStarter.png	shield				14															
+Shield Ploog's Chicken 07	RE	ShieldPloogsChicken073ShieldStarter.png	shield				7															
+Shield Ploog's Chicken 08	RE	ShieldPloogsChicken08ShieldStarter.png	shield				8															
+Shield Ploog's Chicken 10	RE	ShieldPloogsChicken10ShieldStarter.png	shield				10															
+Shield Ploog's Chicken 11	RE	ShieldPloogsChicken11ShieldStarter.png	shield				11															
+Shield Ploog's Chicken 12	RE	ShieldPloogsChicken12ShieldStarter.png	shield				12															
+Shield Ploog's Chicken 14	RE	ShieldPloogsChicken142ShieldStarter.png	shield				14															
+Shield Ploog's Ox 07	RE	ShieldPloogsOx07ShieldStarter.png	shield				7															
+Shield Ploog's Ox 08	RE	ShieldPloogsOx08ShieldStarter.png	shield				8															
+Shield Ploog's Ox 09	RE	ShieldPloogsOx09ShieldStarter.png	shield				9															
+Shield Ploog's Ox 10	RE	ShieldPloogsOx103ShieldStarter.png	shield				10															
+Shield Ploog's Ox 11	RE	ShieldPloogsOx11ShieldStarter.png	shield				11															
+Shield Ploog's Ox 12	RE	ShieldPloogsOx12ShieldStarter.png	shield				12															
+Shield Ploog's Ox 13	RE	ShieldPloogsOx13ShieldStarter.png	shield				13															
+Shield Warhola's Snakes 09	RE	ShieldWarholasSnakes093ShieldStarter.png	shield				9															
+Shield Warhola's Snakes 10	RE	ShieldWarholasSnakes103ShieldStarter.png	shield				10															
+Shield Warhola's Snakes 11	RE	ShieldWarholasSnakes113ShieldStarter.png	shield				11															
+Shield Brom's Goblin 04	DI	ShieldBromsGoblin4ShieldCommon14.png	shield				12															
+Shield Brom's Goblin 08	DI	ShieldBromsGoblin8ShieldCommon14.png	shield				16															
+Shield Brom's Goblin 12	DI	ShieldBromsGoblin12ShieldCommon14.png	shield				4															
+Shield Brom's Goblin 16	DI	ShieldBromsGoblin16ShieldCommon14.png	shield				8															
+Shield Dem Bones 14	DN	DemBones14C1.png	shield				14															
+Shield Dem Bones 16	DN	DemBones16C1.png	shield				16															
+Shield Dem Bones 3	DN	DemBones3C1.png	shield				3															
+Shield Dem Bones 7	DN	DemBones7C1.png	shield				7															
+Egyptian motif 15	NP	EgyptianmotifShield15Common2.png	shield				15															
+Egyptian motif 5	NP	EgyptianmotifShield5Common2.png	shield				5															
+Shield / Terrain Brom's Angelic	DI	ShieldTerrainBromsAngelicShieldTerrainCommon1.png	shield/terrain				8															Shield/Terrain Use as either a Terrain Card or as a Shield Card. If used as a Shield Card, the space this Shield is on now has a 25-point Vitality limit.
+Shield / Terrain Brom's Demonic	DI	ShieldTerrainBromsDemonicShieldTerrainCommon1.png	shield/terrain				8															Shield/Terrain Use as either a Terrain Card or as a Shield Card. If used as a Shield Card, the space this Shield is on now has a 25-point Vitality limit.
+Shield / Terrain Brom's Dragon	DI	ShieldTerrainBromsDragonShieldTerrainCommon1.png	shield/terrain				9															Shield/Terrain Use as either a Terrain Card or as a Shield Card. If used as a Shield Card, the space this Shield is on now has a 25-point Vitality limit.
+Shield / Terrain Brom's Goblin	DI	ShieldTerrainBromsGoblinShieldTerrainCommon1.png	shield/terrain				12															Shield/Terrain Use as either a Terrain Card or as a Shield Card. If used as a Shield Card, the space this Shield is on now has a 25-point Vitality limit.
+Shield / Terrain Brom's Skull	DI	ShieldTerrainBromsSkullShieldTerrainCommon1.png	shield/terrain				8															Shield/Terrain Use as either a Terrain Card or as a Shield Card. If used as a Shield Card, the space this Shield is on now has a 25-point Vitality limit.
+Shield / Terrain Maitz's Insect	DI	ShieldTerrainMaitzsInsectShieldTerrainCommon1.png	shield/terrain				10															Shield/Terrain Use as either a Terrain Card or as a Shield Card. If used as a Shield Card, the space this Shield is on now has a 25-point Vitality limit.
+Shield / Terrain Maitz's Lightning	DI	ShieldTerrainMaitzsLightningShieldTerrainCommon1.png	shield/terrain				14															Shield/Terrain Use as either a Terrain Card or as a Shield Card. If used as a Shield Card, the space this Shield is on now has a 25-point Vitality limit.
+Shield / Terrain Ploog's Chicken	DI	ShieldTerrainPloogsOxShieldTerrainCommon1.png	shield/terrain				6															Shield/Terrain Use as either a Terrain Card or as a Shield Card. If used as a Shield Card, the space this Shield is on now has a 25-point Vitality limit.
+Shield / Terrain Ploog's Ox	DI	ShieldTerrainPloogsRoosterShieldTerrainCommon1.png	shield/terrain				9															Shield/Terrain Use as either a Terrain Card or as a Shield Card. If used as a Shield Card, the space this Shield is on now has a 25-point Vitality limit.
+Shield / Terrain Warhola's Snakes	DI	ShieldTerrainWarholasSnakesShieldTerrainCommon1.png	shield/terrain				10															Shield/Terrain Use as either a Terrain Card or as a Shield Card. If used as a Shield Card, the space this Shield is on now has a 25-point Vitality limit.
+Shield / Terrain Dem Bones	DN	DemBonesShieldTerrainU3.png	shield/terrain				15															Shield/Terrain Use as either a Terrain Card or as a Shield Card. If used as a Shield Card, the space this Shield is on now has a 25-point Vitality limit.
+Shield / Terrain Egyptian motif	NP	EgyptianmotifShieldTerrainUncom2.png	shield/terrain				7															Shield (25pt limit) / Terrain (No bonuses)
+Control Destiny	RE	ControlDestinySpellUncommon1.png,CardBackDoubleBorder.png	spell				15															Look at top six face-down cards of from your deck. Place them back in any order you wish.  Place cards you don't want at the bottom of your deck. Play at the start of any turn after you pull your Up-card.
+Detect Life Force	RE	DetectLifeForceSpellCommon1.png,CardBackDoubleBorder.png	spell				16															Play on an enemy space. Opponent must tell you the total Vitality on the space. Play at any time
+Dispel Magic	RE	DispelMagicSpellCommon2.png,CardBackDoubleBorder.png	spell				3															Negates any Spell, Item, or Command Card effect (but not channeling).
+Energy Eater	RE	EnergyEaterSpellCommon1.png,CardBackDoubleBorder.png	spell				4															Play when your opponent's Guardian channels. Opponent must SUBTRACT the value of the channeling instead of adding it to his target Creature.
+Eye of Long Spying	RE	EyeofLongSpyingSpellCommon1.png,CardBackDoubleBorder.png	spell				6															View opponent's Storage Hand.
+Force Barrier	RE	ForceBarrierSpellRare2.png,CardBackDoubleBorder.png	spell				16															Play on any space after turning your Up-card, but before moving your Shields. No movement into, out of or over the space until next turn. Costs one Power Stone. Only one Force Barrier per player may be in effect at a time.
+Helm of the BrotherHood	RE	HelmoftheBrotherhoodSpellRare2.png,CardBackDoubleBorder.png	spell				18															Look at top five face down cards from opponent's deck. Place them back in any order. Any cards may be placed on the bottom of the deck. Play immediately after Up-cards have been played.
+Ice Storm	RE	IceStormSpellCommon1.png,CardBackDoubleBorder.png	spell				5															Play instead of a Command Card. All flyers are hit by a 7 pt. AOE attack. Good for one combat only, spell effects flyers on BOTH sides.
+Magic Feedback	RE	MagicFeedbackSpellUncommon1.png,CardBackDoubleBorder.png	spell				2															Destroy any creature who has just channeled (except guardians). Channeling is canceled.
+Make Juice	RE	MakeJuiceSpellCommon2.png,CardBackDoubleBorder.png	spell				4															Add one Power Stone. Play any time.
+Pepe's Slow Down	RE	PepesSlowDownSpellUncommon2.png,CardBackDoubleBorder.png	spell				13															Play before opponent moves any Shields at the beginning of a turn. All your opponent's Shields can only move 1 space this turn.
+Power Lunch	RE	PowerLunchSpellCommon2.png,CardBackDoubleBorder.png	spell				4															When played during combat, any one Creature may receive channeling for one match-up.
+St. Ballantine's Evocation	RE	St.BallantinesEvocationSpellCommon1.png,CardBackDoubleBorder.png	spell				11															When played on your Knight currently in a match-up, both the Knight and its opponent are destroyed.
+Summon Gravity Well	RE	SummonGravityWellSpellCommon1.png,CardBackDoubleBorder.png	spell				3															Play when opponent is flying a Shield. This spell stops the Shield from moving at all (still remains turned). Also, the targeted player may not fly any other Shields this turn.
+Summons Gate	RE	SummonsGateSpellRare2.png,CardBackDoubleBorder.png	spell				18															Play during your movement turn. You can move any Demons and Devils from your Creature Pen to any one of your turned Shields.
+Vitales Dark Cloud	RE	VitalesDarkCloudSpellUncommon1.png,CardBackDoubleBorder.png	spell				8															4 pt. AOE attack. Play instead of a Command Card.
+Arcane Infusion	DI	ArcaneInfusionSpellCommon1.png,CardBackDoubleBorder.png	spell				17															Discard a Creature beneath one of your turned Shields not on an empty disputed land space. Unturn that Shield.
+Argammond's Vision	DI	ArgammondsVisionSpellCommon3.png,CardBackDoubleBorder.png	spell				5															Play immediately after Up-cards have been revealed. One opponent of your choice must discard his/her Up-card and reveal another.
+Assassin of Shadow	DI	AssassinofShadowSpellCommon2.png,CardBackDoubleBorder.png	spell				16															Play during Draw and Organize Phase.  Look at any one opponent's draw deck for one minute and discard any one Creature from it.  Reshuffle the deck.
+Channeling Flux	DI	ChannelingFluxSpellCommon4.png,CardBackDoubleBorder.png	spell				9															Play during the Draw and Organize Phase. Your Guardian's CMP is raised to 20 for this turn.
+Crash	DI	CrashSpellCommon3.png,CardBackDoubleBorder.png	spell				2															When you are the active player, you may pass once without turning a Shield.
+Curse of the Betrayed	DI	CurseoftheBetrayedSpellCommon3.png,CardBackDoubleBorder.png	spell				13															Play during Draw and Organize Phase. Choose an opponent, then select any Spell or non-Creature Magic Item. That opponent may not play the card you selected this turn. This Spell can NOT be dispelled.
+Cuthbert the Resurrector	DI	CuthberttheResurrectorSpellRare4.png,CardBackDoubleBorder.png	spell				5															Play during the Draw and Organize Phase.  Pick any Creature from your discard pile as one of your draw cards. You must show your opponent the Creature you pick.
+Essence of Babeitude	DI	EssenceofBabeitudeSpellCommon2.png,CardBackDoubleBorder.png	spell				9															Play as a Command Card. Opponent must show you all cards in his/her combat hand which can be bribed by Babes. Choose one and consider that card to be bribed.
+Famine	DI	FamineSpellRare2.png,CardBackDoubleBorder.png	spell				15															Place Famine on any Shield on a disputed land space during the Draw and Organize Phase. That Shield loses one Creature every Terrain Phase until Famine is discarded. Discard Famine when the Shield enters one of its owner's Stronghold cards.
+Heisenburg's Missiles	DI	HeisenburgsMissilesSpellCommon3.png,CardBackDoubleBorder.png	spell				14															Play when an opponent uses a ranged attack. The ranged attck acts as if you played it.
+Howl of the Dead	DI	HowloftheDeadSpellCommon1.png,CardBackDoubleBorder.png	spell				16															Play as a Command Card.  All of your Undead lost in this combat are returned to your Creature Pen.
+Kasmir's Blitz	DI	KasmirsBlitzSpellCommon3.png,CardBackDoubleBorder.png	spell				18															Play in combat after casualties have been removed, but before ownership of the space is finalized. All remaining Creatures must fight another full round of combat.
+Ongo, Air Traffic Controller	DI	OngoAirTrafficControllerSpellRare3.png,CardBackDoubleBorder.png	spell				18															Play during Movement and Combat Phase. This turn, you may fly two Shields which have the ability to fly.
+Peace	DI	PeaceSpellCommon1.png,CardBackDoubleBorder.png	spell				19															Play after Up-Cards are revealed.  Go directly to the Terrain Settlement Phase. Costs 1 Power Stone to play.
+Pestilence	DI	PestilenceSpellRare1.png,CardBackDoubleBorder.png	spell				16															Play during Terrain Settlement Phase.  All Players must discard one Creature from each of their Shields in the disputed lands. Costs 1 Power Stone per opponent to play. Only one Pestilence may be played per player per turn.
+Phase Assassin	DI	PhaseAssassinSpellRare3.png,CardBackDoubleBorder.png	spell				13															Play at the beginning of the Draw and Organize Phase. For each Power Stone you burn, one of your opponents draws one less card.
+Pirate Double Cross	DI	PirateDoubleCrossSpellCommon4.png,CardBackDoubleBorder.png	spell				11															Play after one of your Pirates is bribed.  Instead of returning to your Creature Pen, the Pirate and its match-up opponent are turned into unchallenged cards in melee.
+Pirate Raiding Party	DI	PirateRaidingPartySpellCommon3.png,CardBackDoubleBorder.png	spell				13															Play after you win a combat. If you have at least two surviving Pirates on the space, you gain 1 Power Stone while your opponent loses 1 Power Stone.
+Santa's Beer Sled	DI	SantasBeerSledSpellCommon2.png,CardBackDoubleBorder.png	spell				7															Play as a Command Card. Opponent must show you all cards in his/her combat hand which can be bribed by Beer. Choose one and consider that card to be bribed.
+Seraphim	DI	SeraphimSpellCommon3.png,CardBackDoubleBorder.png	spell				18															Play immediately after an opponent uses a ranged attack. Cancel that ranged attack. No more ranged attacks are allowed during this combat by that opponent.
+Sooooooul Mirror	DI	SoooooooulMirrorSpellRare2.png,CardBackDoubleBorder.png	spell				12															Play as a Commmand Card. All of your primary attackers in this combat are considered the same Creature Class as your first match-up Creature.
+Spectre's Ward	DI	SpectresWardSpellCommon3.png,CardBackDoubleBorder.png	spell				13															All double-bordered cards cost 1 additional Power Stone to play for the remainder of this turn.
+Summon Dimensional Fire Well	DI	SummonDimensionalFireWellSpellRare2.png,CardBackDoubleBorder.png	spell				11															Play during the Draw and Organize Phase. Rubble one of your Stronghold cards. Discard any of your Creatures on or under the card. Make your Guardian's total number of Power Stones 5.
+Summon Loghammer's Sapper	DI	SummonLoghammersSapperSpellRare3.png,CardBackDoubleBorder.png	spell				17															Play at any time. Destroy any one Stronghold Upgrade.
+The Hand of Chronos	DI	TheHandofChronosSpellRare2.png,CardBackDoubleBorder.png	spell				6															Play after Terrain Settlement Phase. All players go directly to Movement and Combat Phase. Old Up-Cards are discarded. Costs 2 Power Stones to play.
+War	DI	WarSpellCommon4.png,CardBackDoubleBorder.png	spell				6															Play after using a Shield's movement option. Immediately use another of your Shield's movement options.
+Warwick's Aura	DI	WarwicksAuraSpellCommon2.png,CardBackDoubleBorder.png	spell				3															Play during D&O replace opponent's Standard Bearer with dead Shield
+Work Crew	DI	WorkCrewSpellRare3.png,CardBackDoubleBorder.png	spell				19															Play on an opponent's Stronghold space during the Terrain Phase.Your opponent may not add any cards from this space to his/her storage hand during the next turn and may not place any new cards on this space during the next D and O phase.Costs 1 Power Stone to play.
+Yap Attack	DI	YapAttackSpellCommon2.png,CardBackDoubleBorder.png	spell				17															Play as a Command Card. Opponent must show you all cards in his/her combat hand which can be bribed by Gold. Choose one and consider it to be bribed.
+Etherwave Magna Lock	DN	EtherwaveMagnaLockSpellU1.png,CardBackDoubleBorder.png	spell				30															Play on one of your Creatures which is in a match-up with a flying Creature.  Both Creatures are destroyed.
+Gateway To Mystfall	DN	GatewayToMystfallSpellR1.png,CardBackDoubleBorder.png	spell				8															Play during Draw and Organize Phase. Bring up to 10 Vitality of Faires from your discard pile into your Storage Hand. Costs 1 Stone to play.
+Grunwald The Usurper	DN	GrunwaldTheUsurperSpellR4.png,CardBackDoubleBorder.png	spell				19															Play during the Draw and Organize Phase, prior to drawing cards. Treat all Terrain Cards without a Shield on them as under your control for determining number of cards drawn this turn.
+Hostage Crisis	DN	HostageCrisisSpellU2.png,CardBackDoubleBorder.png	spell				20															Play during the Terrain Settlement Phase. One opponent of your choice must show you the contents of his Creature Pen. Gain 1 Power Stone for every Creature in the Creature Pen.
+Master Tactician	DN	MasterTacticianSpellC1.png,CardBackDoubleBorder.png	spell				6															Play when one of your Shields is forced to retreat. That Shield may retreat to ANY adjacent unoccupied disputed land space.
+Planes of Entropy	DN	PlanesofEntropySpellC1.png,CardBackDoubleBorder.png	spell				4															Play during Draw and Organize Phase. Ignore the number of cards you are currently permitted to draw. Draw 1d6 cards instead.
+Press Leak	DN	PressLeakSpellU4.png,CardBackDoubleBorder.png	spell				5															Play as a Command Card. Your opponent must play the remainder of combat with his Combat Hand face-up. You must pick but not show your match-up cards first.
+Pulse Wave	DN	PulseWaveSpellC4.png,CardBackDoubleBorder.png	spell				4															Play as a Command Card. All of your channeling receivers are +2 Vitality.
+Ragmort's Engineers	DN	RagmortsEngineersSpellU2.png,CardBackDoubleBorder.png	spell				18															You may add one extra Stronghold Upgrade to either the left or right Stronghold space, as long as it is different than any Upgrade which is already there.
+Saboteurs	DN	SaboteursSpellC3.png,CardBackDoubleBorder.png	spell				13															Detonate any Creature Magic Item your opponent reveals before combat. The Item is discarded, and your opponent loses 1 Power Stone.
+Shadow Strike	DN	ShadowStrikeSpellC2.png,CardBackDoubleBorder.png	spell				3															Play immediately after Up-cards revealed. All Up-cards are discarded and new ones are revealed.
+Small Mox	DN	SmallMoxSpellC1.png,CardBackDoubleBorder.png	spell				14															Remove one Power Stone from any opponent's Guardian and move it to your own. Costs one Stone to play.
+Summon Entropy Storm	DN	SummonEntropyStormSpellR3.png,CardBackDoubleBorder.png	spell				11															Play on your Creature in a primary match up.  Roll 1d6. 1-4 = your Creature is destroyed, 5-6 your Creature wins the match-up. +1 to the roll if your Creature is small. No further modifications are allowed by either player. Does not affect Guardians.
+Warwick's Banishment	DN	WarwicksBanishmentSpellU1.png,CardBackDoubleBorder.png	spell				18															Play during the Terrain Settlement Phase, next to one opponent's discard pile. That opponent must pay 1 Stone each time a card is removed from the discard pile. May be dispelled at any time.
+You Can't See Me, I'm a Vampire	DN	YouCantSeeMeImaVampireSpellU4.png,CardBackDoubleBorder.png	spell				7															Play on an Undead Creature currently in a primary match-up.  Both cards become Unchallenged Cards in melee.
+Chant of the Osirans	NP	ChantoftheOsiransSpellCommon2.png,CardBackDoubleBorder.png	spell				11															Play immediately after Up-Cards are revealed, If your opponent's Up-card is an Undead. Opponent's Up-card goes to his discard pile, along with the next 4 cards in his draw deck. Opponent then draws another Up-Card. Limit one Chant per turn.
+Dork Age 	NP	DorkAgeSpellUncom2.png,CardBackDoubleBorder.png	spell				10															Play as a Command Card. You Creatures WIN any primary match-ups in which they are beaten by more than 10 Vitality, unless the match-up opponent is a Guardian.
+Iron Force of Sethos	NP	IronForceofSethosSpellCommon2.png,CardBackDoubleBorder.png	spell				5															Play immediately after Up-Cards are revealed. No stones may be spent for Items or Spells until the next Movement and Combat Phase.
+Limited Big Time Rebate	NP	LimitedBigTimeRebateSpellCommon2.png,CardBackDoubleBorder.png	spell				16															Play immeidately after Up-Cards are revealed. You get 1/2 of the Power Stones you spend this turn, rounded up, back at the end of the Terrain Settlement Phase. This Spell may only be played once per player per turn.
+McHooter s Distraction	NP	McHootersDistractionSpellCommon2.png,CardBackDoubleBorder.png	spell				15															Play as a Command Card. All Creatures on this space bribable by Babes can't fight and don't count for control of the space. Place them off to one side. They can still be attacked by secondary attackers. Costs 1 Stone to use.
+Morb's Revenge	NP	MorbsRevengeSpellCommon2.png,CardBackDoubleBorder.png	spell				3															Dispels any Spell or Magic Item that Brom painted. In addition, the caster of the spell must discard 2 double-bordered cards.
+Shadow Bank Job	NP	ShadowBankJobSpellCommon2.png,CardBackDoubleBorder.png	spell				3															Play when an opponent plays a Gold Bribery Card. The bribery is cancelled and YOU get the Bribery Card to use until the end of this combat. If you do not use the Bribery Card by the end of this combat, it is discarded to the owner's discard pile.
+Shadow Beer Heist	NP	ShadowBeerHeistSpellUncom3.png,CardBackDoubleBorder.png	spell				4															Play when an opponent plays a Beer Bribery Card. The bribery is cancelled and YOU get the Bribery Card to use until the end of this combat. If you do not use the Bribery Card by the end of this combat, it is discarded to the owner's discard pile.
+Shadow Panty Raid	NP	ShadowPantyRaidSpellUncom3.png,CardBackDoubleBorder.png	spell				6															Play when an opponent plays a Babes Bribery Card. The bribery is cancelled and YOU get the Bribery Card to use until the end of this combat. If you do not use the Bribery Card by the end of this combat, it is discarded to the owner's discard pile.
+The Ol' Switcheroo	NP	TheOlSwitcherooSpellCommon2.png,CardBackDoubleBorder.png	spell				21															Play when one of your Shields is attacked. Before creating your Combat Hand, you may switch the Shield and its contents with one of your unturned Shields. Both Shields involved in the Switch end the combat turned. Costs 1 Power Stone to use.
+Total Chaos	NP	TotalChaosSpellUncom1.png,CardBackDoubleBorder.png	spell				6															Play before Command Cards are shown. Roll 1d6. On a 3+, your opponent plays your Combat Hand and you play his. Secondary attackers must be played gainst unbeaten Creatures, if possible. After combat, give the cards back before determining control of the space.
+U. R. First	NP	URFirstSpellCommon2.png,CardBackDoubleBorder.png	spell				12															Play during the Movement and Combat Phase. Pick an opponent's unturned Shield. Opponent must use that Shield during his next movement option.
+Warwick's Conversion	NP	WarwicksConversionSpellCommon2.png,CardBackDoubleBorder.png	spell				17															Play during a primary match-up. The Creature you just played switches to ANY one Creature Class of your choice for the remainder of combat.
+Standard Bearer Brom's Angelic 13	RE	StandardBearerBromsAngelic13ShieldRare2.png	standard bearer				13															All your Creatures are +3 Vitality vs. Flyers.
+Standard Bearer Brom's Angelic 19	RE	StandardBearerBromsAngelic19ShieldUncommon1.png	standard bearer				19															Any Creature lost in combat from this Shield may be returned to your Storage Hand for one Power Stone 
+Standard Bearer Brom's Demonic 04	RE	StandardBearerBromsDemonic04ShieldUncommon1.png	standard bearer				4															+2 when attacking
+Standard Bearer Brom's Demonic 19	RE	StandardBearerBromsDemonic19ShieldRare2.png	standard bearer				19															Opponent must declare the Size of his/her first Creature in combat.
+Standard Bearer Brom's Dragon 15	RE	StandardBearerBromsDragon15ShieldUncommon1.png	standard bearer				15															All ranged attacks in combat (both sides) are -1 strength.
+Standard Bearer Brom's Dragon 19	RE	StandardBearerBromsDragon19ShieldRare2.png	standard bearer				19															For 1 Power Stone, you can change a Creature's border color in a match-up.
+Standard Bearer Brom's Skull 16	RE	StandardBearerBromsSkull16ShieldUncommon1.png	standard bearer				16															+2 Vitality to your Creatures' off-color bonuses.
+Standard Bearer Brom's Skull 21	RE	StandardBearerBromsSkull21ShieldRare2.png	standard bearer				21															-3 CMP to channeling (both sides)
+Standard Bearer Maitz's Insect 14	RE	StandardBearerMaitzsInsect14ShieldUncommon1.png	standard bearer				14															When attacking with this Shield, add 3 to your Vitality total for control of the space.
+Standard Bearer Maitz's Insect 16	RE	StandardBearerMaitzsInsect16ShieldRare2.png	standard bearer				16															No bribery vs. Creatures under this Shield.
+Standard Bearer Maitz's Lightning 04	RE	StandardBearerMaitzsLightning04ShieldUncommon1.png	standard bearer				4															Opponent must declare the Type (border color) of his/her first Creature in combat.
+Standard Bearer Maitz's Lightning 14	RE	StandardBearerMaitzsLightning14ShieldRare2.png	standard bearer				14															 +2 when defending
+Standard Bearer Ploog's Chicken 05	RE	StandardBearerPloogsChicken05ShieldUncommon1.png	standard bearer				5															When defending, add 3 strength to all your ranged attacks during combat.
+Standard Bearer Ploog's Chicken 12	RE	StandardBearerPloogsChicken12ShieldRare2.png	standard bearer				12															Dispel opponent's Command Card for one Power Stone.
+Standard Bearer Ploog's Ox 05	RE	StandardBearerPloogsOx05ShieldUncommon1.png	standard bearer				5															When defending, add 3 strength to all your ranged attacks.
+Standard Bearer Ploog's Ox 19	RE	StandardBearerPloogsOx19ShieldRare2.png	standard bearer				19															+3 to ranged when attacking
+Standard Bearer Warhola's Snakes 06	RE	StandardBearerWarholasSnakes06ShieldUncommon1.png	standard bearer				6															Creatures under this Shield win all pushes in match-ups.
+Standard Bearer Warhola's Snakes 17	RE	StandardBearerWarholasSnakes17ShieldRare2.png	standard bearer				17															All channeling to your Creatures gain +2 CMP.
+Standard Bearer Brom's Goblin 11	DI	StandardBearerBromsGoblin11ShieldRare3.png	standard bearer				11															-3 Vitality to opposing Creatures' Terrain bonuses. No Terrain bonus may be reduced below
+Standard Bearer Brom's Goblin 16	DI	StandardBearerBromsGoblin16ShieldRare2.png	standard bearer				16															+1 Vitality to all creature terrain bonuses
+Standard Bearer Dem Bones 15	DN	DemBonesStandard15ShieldStandardBearerU1.png	standard bearer				15															Spend 1 Power Stone to change any bribery icon to any other bribery icon during combat.
+Standard Bearer Dem Bones 19	DN	DemBonesStandard19ShieldStandardBearerR2.png	standard bearer				19															+2 Vitality to all your Creatures with at least one bribery icon.
+Egyptian motif Standard 11	NP	EgyptianmotifStandard11ShieldStandardBearerUncom3.png	standard bearer				11															Gain 1 Power Stone every time this Shield wins a combat.
+Egyptian motif Standard 25	NP	EgyptianmotifStandard25ShieldStandardBearerUncom3.png	standard bearer				25															Spend 1 Power Stone to cancel any Creature's AOE attack.
+Carreg Amroth Center	RE	CarregAmrothStrongholdCStrongholdStarter-horizontal.png,Rubble-horizontal.png	stronghold																			+5 Vitality to defending Creatures.
+Carreg Amroth Left	RE	CarregAmrothStrongholdLStrongholdStarter-horizontal.png,Rubble-horizontal.png	stronghold																			+5 Vitality to defending Creatures.
+Carreg Amroth Right	RE	CarregAmrothStrongholdRStrongholdStarter-horizontal.png,Rubble-horizontal.png	stronghold																			+5 Vitality to defending Creatures.
+Khnumian C	RE	KhnumianStrongholdCStrongholdStarter-horizontal.png,Rubble-horizontal.png	stronghold																			+3 Vitality to defending Creatures. No flying allowing to this space.
+Khnumian L	RE	KhnumianStrongholdLStrongholdStarter-horizontal.png,Rubble-horizontal.png	stronghold																			+3 Vitality to defending Creatures.
+Khnumian R	RE	KhnumianStrongholdRStrongholdStarter-horizontal.png,Rubble-horizontal.png	stronghold																			+3 Vitality to defending Creatures.
+Sabu Amantek C	RE	SabuAmantekCStrongholdStarter-horizontal.png,Rubble-horizontal.png	stronghold																			+4 Vitality to defending Creatures. +2 to your ranged attacks.
+Sabu Amantek L	RE	SabuAmantekLStrongholdStarter-horizontal.png,Rubble-horizontal.png	stronghold																			+3 Vitality to defending Creatures. +2 to your ranged attacks.
+Sabu Amantek R	RE	SabuAmantekRStrongholdStarter-horizontal.png,Rubble-horizontal.png	stronghold																			+3 Vitality to defending Creatures. +2 to your ranged attacks.
+Freebooter's Stronghold C	DI	FreebooterStronghold2skullCenterStrongholdRare3-horizontal.png,Rubble-horizontal.png	stronghold																			+6 Vitality to defending Creatures.
+Freebooter's Stronghold L	DI	FreebooterStronghold3cannonleftStrongholdRare3-horizontal.png,Rubble-horizontal.png	stronghold																			+4 Vitality to defending Creatures. Counts as River & Lakes.
+Freebooter's Stronghold R	DI	FreebooterStronghold1cannonrightStrongholdRare3-horizontal.png,Rubble-horizontal.png	stronghold																			+4 Vitality to defending Creatures. Counts as River & Lakes.
+Drifter's Nexus Stronghold C	DN	DriftersNexusStrongholdcStrongholdR3-horizontal.png,Rubble-horizontal.png	stronghold																			1d6+1 Vitality to defending Creatures. Roll once before combat.
+Drifter's Nexus Stronghold L	DN	DriftersNexusStrongholdlStrongholdR3-horizontal.png,Rubble-horizontal.png	stronghold																			1d6+1 Vitality to defending Creatures. Roll once before combat.
+Drifter's Nexus Stronghold R	DN	DriftersNexusStrongholdrStrongholdR3-horizontal.png,Rubble-horizontal.png	stronghold																			1d6+1 Vitality to defending Creatures. Roll once before combat.
+Necropolis Park C	NP	NecropolisParkCStrongholdUncom2-horizontal.png,Rubble-horizontal.png	stronghold																			+3 Vitality to defenders. All Undead lost in combat on this card go to your Undead Creature Pen instead of the discard pile.
+Necropolis Park L	NP	NecropolisParkLStrongholdUncom2-horizontal.png,Rubble-horizontal.png	stronghold																			+3 Vitality to defenders. All Undead lost in combat on this card go to your Undead Creature Pen instead of the discard pile.
+Necropolis Park R	NP	NecropolisParkRStrongholdUncom2-horizontal.png,Rubble-horizontal.png	stronghold																			+3 Vitality to defenders. All Undead lost in combat on this card go to your Undead Creature Pen instead of the discard pile.
+Mountains	RE	MountainsTerrainCommonSp-horizontal.png	terrain				3															
+Rivers and Lakes	RE	RiversandLakesTerrainCommonSp-horizontal.png	terrain				6															
+Spires	RE	SpiresTerrainCommonSp-horizontal.png	terrain				10															No flying into, out of or over.
+Swamp	RE	SwampTerrainCommonSp-horizontal.png	terrain				7															
+The Dry Heaps	RE	TheDryHeapsTerrainCommonSp-horizontal.png	terrain				4															
+Woods	RE	WoodsTerrainCommonSp-horizontal.png	terrain				8															No ranged attack.
+Iron Crag Brew Mountain	DN	IronCragBrewMountainLocationTerrainC2-horizontal.png	terrain				5															Counts as Mountain Terrain. No bribery by Beer is allowed on this space.
+Spirit Mountain	DN	SpiritMountainLocationTerrainC2-horizontal.png	terrain				1															Counts as Mountains Terrain. All Spirits may receive channeling on this space.
+The Hollens Grove	DN	TheHollensGroveLocationTerrainC2-horizontal.png	terrain				9															Counts as Woods Terrain. Ranged attacks are allowed on this space.
+The Maitz Hotel	DN	MaitzMotelLocationTerrainC2-horizontal.png	terrain				22															Counts as The Dry Heaps Terrain. Dispel Magic may not be played during combat on this space.
+The S.S. House of Babes	DN	S.S.HouseofBabesLocationTerrainC2-horizontal.png	terrain				17															Counts as River and Lakes Terrain. No bribery by Babes allowed on this space.
+Barrow Downs	NP	BarrowDownsLocationTerrainUncom3-horizontal.png	terrain				16															Counts as both Mountains and Woods Terrain.
+Jungle	NP	JungleTerrainUncom3-horizontal.png	terrain				11															No Command Cards during combat.
+Rocks at Rhuadan 	NP	RocksatRhuadanLocationTerrainUncom3-horizontal.png	terrain				13															Counts as both Mountains and The Dry Heaps Terrain. Only Guardians may channel into combat on this space, and at -3 CMP per stone.
+Tomb of the Bulzuru	NP	TomboftheBulzuruLocationTerrainUncom3-horizontal.png	terrain				17															Counts as both Swamps and Woods Terrain.
+Flame Cannon	RE	FlameCannonStrongholdUpgradeRare1-horizontal.png	upgrade				15															Sacrifice any number of cards from your Storage Hand for an equal number of Power Stones at any time.
+Large Idol	RE	LargeIdolStrongholdUpgradeUncommon1-horizontal.png	upgrade				20															During any combat in the two spaces in front of the cannon, the cannon may be fired instead of playing a Command Card. (C) 3 pt. AOE fireball costs 1 Power Stone.  For each extra Stone, add 2 pts. to the AOE.
+Sacrificial Altar	RE	SacrificialAltarStrongholdUpgradeRare2-horizontal.png	upgrade				8															When determining control of the space after combat in either of the two spaces directly in front of the Idol, add 3 pts. to your Vitality total. Add an additional point of Vitality for each Power Stone spent.
+Teleport Tower	RE	TeleportTowerStrongholdUpgradeUncommon1-horizontal.png	upgrade				11															Place ANY one Creature in the Teleport Tower during the Draw and Organize Phase. This Creature may teleport to any turned Shield during one of your movement phases BEFORE you turn a Shield.
+Pirate Log Platform	DI	PirateLogPlatformStrongholdUpgradeRare3-horizontal.png	upgrade				2															Opponent's Shield takes a 7 pt. AOE when attacking or entering this space.
+Ranged Attack Platform	DI	RangedAttackPlatformStrongholdUpgradeRare3-horizontal.png	upgrade				11															Place one ranged attack Creature face-down on the Platform during the Draw and Organize Phase. You may use that card's ranged attack in any one combat occuring on the two spaces in front of the platform.
+Spikey Crenellations	DI	SpikeyCrenalationsStrongholdUpgradeRare2-horizontal.png	upgrade				4															Crenalations stop flying to ALL of your Stronghold cards. Flying is still allowed FROM the Stronghold spaces.
+Alarm Bells	DN	AlarmBellsStrongholdUpgradeU3-horizontal.png	upgrade				6															Creatures under stronghold can defend if stronghold attacked
+Secret Catacombs	DN	SecretCatacombsStrongholdUpgradeR3-horizontal.png	upgrade				11															Place any one Creature i nthe Catacombs during Draw and Organize Phase. This Creature may defend any of your Stronghold Cards when the card is attacked. If it survives, the Creature must remain on the cards where combat took place and counts towards that card's Vitality limit.
+Wizard's Tower	DN	WizardsTowerStrongholdUpgradeU2-horizontal.png	upgrade				4															All channeling by Creatures is +1 CMP from beneath this Stronghold Card.
+Death Pit of Djoser	NP	DeathPitofDjoserStrongholdUpgradeUncom2-horizontal.png	upgrade				18															You may place one Undead creature face-up in the death pit during the draw and organize phase. ¬¨¬© Spend one power stone to add the undead from the pit tu your combat hand, but only if the combat takes on one of the two spaces directly in front of this upgr
+Lotus Flower Water Garden	NP	LotusFlowerWaterGardenStrongholdUpgradeUncom2-horizontal.png	upgrade				11															Spend 1 Power Stone to cancel the effect of any Accessory as the Accessory is used.
+Barrow Wight	PR	PromoBarrowWight.png	external	Undead             		M 	8		2													The Barrow Wight is +4 Vitality when it is a secondary attacker.																								
+Chaos Summoner	PR	PromoChaosSummoner.png,CardBackDoubleBorder.png	spell				9															Take any undead creature from your discard pile and add it to your storage Hand. Play during the Draw and Organise phase. Cost 1 stone to play																								
+Cheesy Con Souvenir Tweezle	PR	PromoCheesyConSouvenir.png	item/creature				30															Show opponent Cheesy Con Souvenir when this Shield is arracked. Sultably impressed, your opponent must retreat. Discard the souvenir																								
+Druk	PR	PromoDruk.png	elemental	Devil	F	M	8		2	L												Immune to fire.																								
+Exploding Tweezle	PR	PromoExplodingTweezle.png	item/creature				20															Play as a command card when attacking. Twizzle and your opponent's Command card are both destroyed. Your opponent's command ability is dispelled. Or Mail this card to FPG for a free box of Guardian booster packs. Include 10$ for S&H																								
+Land Drake	PR	PromoLandDrake.png	external	Dragon             		L	18		6	L												3 point AOE Fire breath.																								
+Tweezle the Sneaky	PR	PromoTweezletheSneaky.png	item/creature																			Play as a command card. Opponent must show you all his double border cards or loses 1 power stone. Discard after use. Or Send it to FPG for a copy of the Guardians players guide. Include  $2.00 for S&H.																								

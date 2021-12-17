@@ -1,0 +1,166 @@
+<packdefinitions version="1.0">
+
+    <pack>
+    <packtitle>Shield Pack - Brom's Angelic</packtitle>
+    <packformat>Standard</packformat>
+    <packkind>Basic</packkind>
+    <packdoubles>yes</packdoubles>
+    <packcommoncrit><field>Set</field><eval>IS</eval><data>RE</data></packcommoncrit>
+    <chance>     
+
+<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Angelic 08</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Angelic 09</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Angelic 10</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Angelic 11</data></crit></kind>
+<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Angelic 12</data></crit></kind>
+
+</chance>
+</pack>
+
+
+<pack>
+    <packtitle>Shield Pack - Brom's Demonic</packtitle>
+    <packformat>Standard</packformat>
+    <packkind>Basic</packkind>
+    <packdoubles>yes</packdoubles>
+    <packcommoncrit><field>Set</field><eval>IS</eval><data>RE</data></packcommoncrit>
+    <chance>     
+
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Demonic 04</data></crit></kind>
+<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Demonic 08</data></crit></kind>
+<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Demonic 10 </data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Demonic 12</data></crit></kind>
+<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Demonic 14</data></crit></kind>
+
+</chance>
+</pack>
+
+<pack>
+    <packtitle>Shield Pack - Brom's Dragon</packtitle>
+    <packformat>Standard</packformat>
+    <packkind>Basic</packkind>
+    <packdoubles>yes</packdoubles>
+    <packcommoncrit><field>Set</field><eval>IS</eval><data>RE</data></packcommoncrit>
+    <chance>     
+
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Dragon 07</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Dragon 09</data></crit></kind>
+<kind><qty>4</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Dragon 10</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Dragon 11</data></crit></kind>
+<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Dragon 13</data></crit></kind>
+
+</chance>
+</pack>
+
+<pack>
+    <packtitle>Shield Pack - Brom's Skull</packtitle>
+    <packformat>Standard</packformat>
+    <packkind>Basic</packkind>
+    <packdoubles>yes</packdoubles>
+    <packcommoncrit><field>Set</field><eval>IS</eval><data>RE</data></packcommoncrit>
+    <chance>     
+
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Skull 06</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Skull 07</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Skull 08</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Skull 09</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Skull 10</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Skull 11</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Skull 12</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Skull 13</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Brom's Skull 14</data></crit></kind>
+
+</chance>
+</pack>
+
+<pack>
+    <packtitle>Shield Pack - Maitz's Insect</packtitle>
+    <packformat>Standard</packformat>
+    <packkind>Basic</packkind>
+    <packdoubles>yes</packdoubles>
+    <packcommoncrit><field>Set</field><eval>IS</eval><data>RE</data></packcommoncrit>
+    <chance>     
+
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Maitz's Insect 06</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Maitz's Insect 07</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Maitz's Insect 08</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Maitz's Insect 10</data></crit></kind>
+<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Shield Maitz's Insect 11</data></crit></kind>
+<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Shield Maitz's Insect 12</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Maitz's Insect 13</data></crit></kind>
+
+</chance>
+</pack>
+
+<pack>
+    <packtitle>Shield Pack - Maitz's Lightning</packtitle>
+    <packformat>Standard</packformat>
+    <packkind>Basic</packkind>
+    <packdoubles>yes</packdoubles>
+    <packcommoncrit><field>Set</field><eval>IS</eval><data>RE</data></packcommoncrit>
+    <chance>     
+
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Maitz's Lightning 02</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Maitz's Lightning 05</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Maitz's Lightning 09</data></crit></kind>
+<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Shield Maitz's Lightning 10</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Maitz's Lightning 12</data></crit></kind>
+<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Shield Maitz's Lightning 14</data></crit></kind>
+
+</chance>
+</pack>
+
+<pack>
+    <packtitle>Shield Pack - Ploog's Chicken</packtitle>
+    <packformat>Standard</packformat>
+    <packkind>Basic</packkind>
+    <packdoubles>yes</packdoubles>
+    <packcommoncrit><field>Set</field><eval>IS</eval><data>RE</data></packcommoncrit>
+    <chance>     
+
+<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Shield Ploog's Chicken 07</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Ploog's Chicken 08</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Ploog's Chicken 10</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Ploog's Chicken 11</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Ploog's Chicken 12</data></crit></kind>
+<kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Shield Ploog's Chicken 14</data></crit></kind>
+
+</chance>
+</pack>
+
+<pack>
+    <packtitle>Shield Pack - Ploog's Ox</packtitle>
+    <packformat>Standard</packformat>
+    <packkind>Basic</packkind>
+    <packdoubles>yes</packdoubles>
+    <packcommoncrit><field>Set</field><eval>IS</eval><data>RE</data></packcommoncrit>
+    <chance>     
+
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Ploog's Ox 07</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Ploog's Ox 08</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Ploog's Ox 09</data></crit></kind>
+<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Shield Ploog's Ox 10</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Ploog's Ox 11</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Ploog's Ox 12</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shield Ploog's Ox 13</data></crit></kind>
+
+</chance>
+</pack>
+
+<pack>
+    <packtitle>Shield Pack - Warhola's Snakes</packtitle>
+    <packformat>Standard</packformat>
+    <packkind>Basic</packkind>
+    <packdoubles>yes</packdoubles>
+    <packcommoncrit><field>Set</field><eval>IS</eval><data>RE</data></packcommoncrit>
+    <chance>     
+
+<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Shield Warhola's Snakes 09</data></crit></kind>
+<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Shield Warhola's Snakes 10</data></crit></kind>
+<kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Shield Warhola's Snakes 11</data></crit></kind>
+
+</chance>
+</pack>
+
+
+</packdefinitions>

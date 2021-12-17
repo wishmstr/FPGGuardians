@@ -1,0 +1,75 @@
+<deck version="0.8">
+	<meta>
+		<game>guardianstest</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="SacrificialAltarStrongholdUpgradeRare2-horizontal.png">Sacrificial Altar</name><set>RE</set></card>
+		<card><name id="SacrificialAltarStrongholdUpgradeRare2-horizontal.png">Sacrificial Altar</name><set>RE</set></card>
+		<card><name id="ShieldWarholasSnakes113ShieldStarter.png">Shield Warhola&apos;s Snakes 11</name><set>RE</set></card>
+		<card><name id="ShieldWarholasSnakes113ShieldStarter.png">Shield Warhola&apos;s Snakes 11</name><set>RE</set></card>
+		<card><name id="ShieldWarholasSnakes113ShieldStarter.png">Shield Warhola&apos;s Snakes 11</name><set>RE</set></card>
+		<card><name id="ShieldTerrainWarholasSnakesShieldTerrainCommon1.png">Shield / Terrain Warhola&apos;s Snakes</name><set>DI</set></card>
+		<card><name id="ShieldTerrainWarholasSnakesShieldTerrainCommon1.png">Shield / Terrain Warhola&apos;s Snakes</name><set>DI</set></card>
+		<card><name id="ShieldTerrainWarholasSnakesShieldTerrainCommon1.png">Shield / Terrain Warhola&apos;s Snakes</name><set>DI</set></card>
+		<card><name id="ShieldTerrainWarholasSnakesShieldTerrainCommon1.png">Shield / Terrain Warhola&apos;s Snakes</name><set>DI</set></card>
+		<card><name id="ShieldTerrainWarholasSnakesShieldTerrainCommon1.png">Shield / Terrain Warhola&apos;s Snakes</name><set>DI</set></card>
+		<card><name id="StandardBearerWarholasSnakes17ShieldRare2.png">Standard Bearer Warhola&apos;s Snakes 17</name><set>RE</set></card>
+		<card><name id="StandardBearerWarholasSnakes17ShieldRare2.png">Standard Bearer Warhola&apos;s Snakes 17</name><set>RE</set></card>
+		<card><name id="AnvilofHeavinessMagicItemHandCommon1.png,CardBackDoubleBorder.png">Anvil of Heaviness</name><set>RE</set></card>
+		<card><name id="AnvilofHeavinessMagicItemHandCommon1.png,CardBackDoubleBorder.png">Anvil of Heaviness</name><set>RE</set></card>
+		<card><name id="ForceBarrierSpellRare2.png,CardBackDoubleBorder.png">Force Barrier</name><set>RE</set></card>
+		<card><name id="ForceBarrierSpellRare2.png,CardBackDoubleBorder.png">Force Barrier</name><set>RE</set></card>
+		<card><name id="WorkCrewSpellRare3.png,CardBackDoubleBorder.png">Work Crew</name><set>DI</set></card>
+		<card><name id="WorkCrewSpellRare3.png,CardBackDoubleBorder.png">Work Crew</name><set>DI</set></card>
+		<card><name id="WorkCrewSpellRare3.png,CardBackDoubleBorder.png">Work Crew</name><set>DI</set></card>
+		<card><name id="WorkCrewSpellRare3.png,CardBackDoubleBorder.png">Work Crew</name><set>DI</set></card>
+		<card><name id="PowerLunchSpellCommon2.png,CardBackDoubleBorder.png">Power Lunch</name><set>RE</set></card>
+		<card><name id="PowerLunchSpellCommon2.png,CardBackDoubleBorder.png">Power Lunch</name><set>RE</set></card>
+		<card><name id="DispelMagicSpellCommon2.png,CardBackDoubleBorder.png">Dispel Magic</name><set>RE</set></card>
+		<card><name id="DispelMagicSpellCommon2.png,CardBackDoubleBorder.png">Dispel Magic</name><set>RE</set></card>
+		<card><name id="DispelMagicSpellCommon2.png,CardBackDoubleBorder.png">Dispel Magic</name><set>RE</set></card>
+		<card><name id="DispelMagicSpellCommon2.png,CardBackDoubleBorder.png">Dispel Magic</name><set>RE</set></card>
+		<card><name id="OngoAirTrafficControllerSpellRare3.png,CardBackDoubleBorder.png">Ongo, Air Traffic Controller</name><set>DI</set></card>
+		<card><name id="OngoAirTrafficControllerSpellRare3.png,CardBackDoubleBorder.png">Ongo, Air Traffic Controller</name><set>DI</set></card>
+		<card><name id="CuthberttheResurrectorSpellRare4.png,CardBackDoubleBorder.png">Cuthbert the Resurrector</name><set>DI</set></card>
+		<card><name id="CuthberttheResurrectorSpellRare4.png,CardBackDoubleBorder.png">Cuthbert the Resurrector</name><set>DI</set></card>
+		<card><name id="DoomwingElementalDemonUncommon1.png">Doomwing</name><set>RE</set></card>
+		<card><name id="DoomwingElementalDemonUncommon1.png">Doomwing</name><set>RE</set></card>
+		<card><name id="DoomwingElementalDemonUncommon1.png">Doomwing</name><set>RE</set></card>
+		<card><name id="DoomwingElementalDemonUncommon1.png">Doomwing</name><set>RE</set></card>
+		<card><name id="DragonWingLordExternalDragonRare1.png">Dragon Wing Lord</name><set>RE</set></card>
+		<card><name id="DragonWingLordExternalDragonRare1.png">Dragon Wing Lord</name><set>RE</set></card>
+		<card><name id="FloydtheFlyingPigMortalBarnyardAnimalUncommon2.png">Floyd the Flying Pig</name><set>RE</set></card>
+		<card><name id="FloydtheFlyingPigMortalBarnyardAnimalUncommon2.png">Floyd the Flying Pig</name><set>RE</set></card>
+		<card><name id="FloydtheFlyingPigMortalBarnyardAnimalUncommon2.png">Floyd the Flying Pig</name><set>RE</set></card>
+		<card><name id="FloydtheFlyingPigMortalBarnyardAnimalUncommon2.png">Floyd the Flying Pig</name><set>RE</set></card>
+		<card><name id="DjinnElementalForceUncommon1.png">Djinn</name><set>RE</set></card>
+		<card><name id="DjinnElementalForceUncommon1.png">Djinn</name><set>RE</set></card>
+		<card><name id="DjinnElementalForceUncommon1.png">Djinn</name><set>RE</set></card>
+		<card><name id="DjinnElementalForceUncommon1.png">Djinn</name><set>RE</set></card>
+		<card><name id="DjinnElementalForceUncommon1.png">Djinn</name><set>RE</set></card>
+		<card><name id="GreaterEnergyElementalElementalElementRare1.png">Greater Energy Elemental</name><set>RE</set></card>
+		<card><name id="GreaterEnergyElementalElementalElementRare1.png">Greater Energy Elemental</name><set>RE</set></card>
+		<card><name id="GreaterEnergyElementalElementalElementRare1.png">Greater Energy Elemental</name><set>RE</set></card>
+		<card><name id="GreaterEnergyElementalElementalElementRare1.png">Greater Energy Elemental</name><set>RE</set></card>
+		<card><name id="GreaterEnergyElementalElementalElementRare1.png">Greater Energy Elemental</name><set>RE</set></card>
+		<card><name id="GreaterAirElementalElementalElementUncommon1.png">Greater Air Elemental</name><set>RE</set></card>
+		<card><name id="GreaterAirElementalElementalElementUncommon1.png">Greater Air Elemental</name><set>RE</set></card>
+		<card><name id="BantamDrakeExternalDragonUncommon1.png">Bantam Drake</name><set>RE</set></card>
+		<card><name id="BantamDrakeExternalDragonUncommon1.png">Bantam Drake</name><set>RE</set></card>
+		<card><name id="GorgalSkagElementalDemonCommon1.png">Gorgal Skag</name><set>RE</set></card>
+		<card><name id="GorgalSkagElementalDemonCommon1.png">Gorgal Skag</name><set>RE</set></card>
+		<card><name id="GorgalSkagElementalDemonCommon1.png">Gorgal Skag</name><set>RE</set></card>
+		<card><name id="GorgalSkagElementalDemonCommon1.png">Gorgal Skag</name><set>RE</set></card>
+		<card><name id="BuzzardMortalBarnyardAnimalCommon4.png">Buzzard</name><set>DI</set></card>
+		<card><name id="BuzzardMortalBarnyardAnimalCommon4.png">Buzzard</name><set>DI</set></card>
+		<card><name id="BuzzardMortalBarnyardAnimalCommon4.png">Buzzard</name><set>DI</set></card>
+		<card><name id="BuzzardMortalBarnyardAnimalCommon4.png">Buzzard</name><set>DI</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="GaarInfluenceroftheMassesGuardianRare1.png,GaarInfluenceroftheMassesGuardianRare1.png">Gaar, Influencer of the Masses</name><set>RE</set></card>
+		<card><name id="KhnumianStrongholdCStrongholdStarter-horizontal.png,Rubble-horizontal.png">Khnumian C</name><set>RE</set></card>
+		<card><name id="KhnumianStrongholdLStrongholdStarter-horizontal.png,Rubble-horizontal.png">Khnumian L</name><set>RE</set></card>
+		<card><name id="KhnumianStrongholdRStrongholdStarter-horizontal.png,Rubble-horizontal.png">Khnumian R</name><set>RE</set></card>
+	</superzone>
+</deck>
