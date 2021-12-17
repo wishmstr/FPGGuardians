@@ -1,4 +1,4 @@
-FPGGuardians	12/16/2021
+FPGGuardians	12/16/21
 plugins/FPGGuardians/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/plugininfo.txt	295515
 plugins/FPGGuardians/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/pluginpreferences.txt	189120
 plugins/FPGGuardians/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/carddata.txt	10583649
