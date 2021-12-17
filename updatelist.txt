@@ -1,5 +1,5 @@
 FPGGuardians	12-16-21
-plugins/FPGGuardians/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/plugininfo.txt	295516
+plugins/FPGGuardians/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/plugininfo.txt	295517
 plugins/FPGGuardians/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/pluginpreferences.txt	189120
 plugins/FPGGuardians/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/carddata.txt	10583649
 plugins/FPGGuardians/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/Setimages/general/cardback.png	235830

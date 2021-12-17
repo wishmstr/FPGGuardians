@@ -58,7 +58,8 @@
 <generalfunction><label>Draw</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
 <generalfunction><label>Ready All</label><kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></generalfunction>
 <generalfunction><label>Up Card</label><kind>DRAWCARDTOTABLE</kind><includeasbutton>yes</includeasbutton></generalfunction>
-<generalfunction><label>Flip Coin</label><kind>FLIPCOIN</kind></generalfunction>
+<generalfunction><label>Flip Coin</label><kind>FLIPCOIN</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Roll d6</label><kind>ROLLD6</kind><includeasbutton>yes</includeasbutton></generalfunction>
 <generalfunction><label>Spawn Card</label><kind>SPAWNCARD</kind></generalfunction>
 
 
