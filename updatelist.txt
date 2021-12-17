@@ -1,23 +1,23 @@
-guardianstest	12-16-21
-plugins/guardianstest/plugininfo.txt	http://illidan.servebeer.com/guardianstest/plugininfo.txt	295515
-plugins/guardianstest/pluginpreferences.txt	http://illidan.servebeer.com/guardianstest/pluginpreferences.txt	189120
-plugins/guardianstest/sets/carddata.txt	http://illidan.servebeer.com/guardianstest/sets/carddata.txt	10583649
-plugins/guardianstest/sets/setimages/general/cardback.png	http://illidan.servebeer.com/guardianstest/sets/setimages/general/cardback.png	235830
-plugins/guardianstest/sets/setimages/general/spawned.png	http://illidan.servebeer.com/guardianstest/sets/setimages/general/spawned.png	235830
-plugins/guardianstest/CardImageURLs1.txt	http://illidan.servebeer.com/guardianstest/CardImageURLs1.txt	9276126
-plugins/guardianstest/decks/Advanced_Richards_Pirates.dek	http://illidan.servebeer.com/guardianstest/decks/Advanced_Richards_Pirates.dek	704200
-plugins/guardianstest/decks/Advanced_The_Bad_Luck_13_Pirate_Extravaganza.dek	http://illidan.servebeer.com/guardianstest/decks/Advanced_The_Bad_Luck_13_Pirate_Extravaganza.dek	781174
-plugins/guardianstest/decks/Advanced_Undead_and_Slag_Beast.dek	http://illidan.servebeer.com/guardianstest/decks/Advanced_Undead_and_Slag_Beast.dek	918983
-plugins/guardianstest/decks/Basic_Giants_and_Fairies_Theme.dek	http://illidan.servebeer.com/guardianstest/decks/Basic_Giants_and_Fairies_Theme.dek	639966
-plugins/guardianstest/decks/Basic_Knights_Theme.dek	http://illidan.servebeer.com/guardianstest/decks/Basic_Knights_Theme.dek	626075
-plugins/guardianstest/decks/Basic_Pirates_Theme.dek	http://illidan.servebeer.com/guardianstest/decks/Basic_Pirates_Theme.dek	661872
-plugins/guardianstest/decks/Basic_Slag_Beast_Theme.dek	http://illidan.servebeer.com/guardianstest/decks/Basic_Slag_Beast_Theme.dek	617997
-plugins/guardianstest/decks/Basic_Undead_Theme.dek	http://illidan.servebeer.com/guardianstest/decks/Basic_Undead_Theme.dek	672094
-plugins/guardianstest/decks/Guidebook_Knights_and_Angels.dek	http://illidan.servebeer.com/guardianstest/decks/Guidebook_Knights_and_Angels.dek	906678
-plugins/guardianstest/decks/Guidebook_Rock_Paper_and_Scissors.dek	http://illidan.servebeer.com/guardianstest/decks/Guidebook_Rock_Paper_and_Scissors.dek	1268367
-plugins/guardianstest/decks/Guidebook_The_Deck.dek	http://illidan.servebeer.com/guardianstest/decks/Guidebook_The_Deck.dek	649177
-plugins/guardianstest/decks/Guidebook_The_Fast_Flying_Attack_Deck.dek	http://illidan.servebeer.com/guardianstest/decks/Guidebook_The_Fast_Flying_Attack_Deck.dek	676868
-plugins/guardianstest/packs/packdefinitions1.xml	http://illidan.servebeer.com/guardianstest/packs/packdefinitions1.xml	725714
-plugins/guardianstest/guardians_rb_rev-en.pdf	http://illidan.servebeer.com/guardianstest/guardians_rb_rev-en.pdf	5783654
-CardURLFiles:
+FPGGuardians	12/16/2021	
+plugins/FPGGuardians/plugininfo.txt	https://github.com/wishmstr/FPGGuardians/blob/main/plugininfo.txt	-1
+plugins/FPGGuardians/pluginpreferences.txt	https://github.com/wishmstr/FPGGuardians/blob/main/pluginpreferences.txt	-1
+plugins/FPGGuardians/sets/carddata.txt	https://github.com/wishmstr/FPGGuardians/blob/main/sets/carddata.txt	-1
+plugins/FPGGuardians/sets/setimages/general/cardback.png	https://github.com/wishmstr/FPGGuardians/blob/main/sets/setimages/general/cardback.png	-1
+plugins/FPGGuardians/sets/setimages/general/spawned.png	https://github.com/wishmstr/FPGGuardians/blob/main/sets/setimages/general/spawned.png	-1
+plugins/FPGGuardians/CardImageURLs1.txt	https://github.com/wishmstr/FPGGuardians/blob/main/CardImageURLs1.txt	-1
+plugins/FPGGuardians/decks/Advanced_Richards_Pirates.dek	https://github.com/wishmstr/FPGGuardians/blob/main/decks/Advanced_Richards_Pirates.dek	-1
+plugins/FPGGuardians/decks/Advanced_The_Bad_Luck_13_Pirate_Extravaganza.dek	https://github.com/wishmstr/FPGGuardians/blob/main/decks/Advanced_The_Bad_Luck_13_Pirate_Extravaganza.dek	-1
+plugins/FPGGuardians/decks/Advanced_Undead_and_Slag_Beast.dek	https://github.com/wishmstr/FPGGuardians/blob/main/decks/Advanced_Undead_and_Slag_Beast.dek	-1
+plugins/FPGGuardians/decks/Basic_Giants_and_Fairies_Theme.dek	https://github.com/wishmstr/FPGGuardians/blob/main/decks/Basic_Giants_and_Fairies_Theme.dek	-1
+plugins/FPGGuardians/decks/Basic_Knights_Theme.dek	https://github.com/wishmstr/FPGGuardians/blob/main/decks/Basic_Knights_Theme.dek	-1
+plugins/FPGGuardians/decks/Basic_Pirates_Theme.dek	https://github.com/wishmstr/FPGGuardians/blob/main/decks/Basic_Pirates_Theme.dek	-1
+plugins/FPGGuardians/decks/Basic_Slag_Beast_Theme.dek	https://github.com/wishmstr/FPGGuardians/blob/main/decks/Basic_Slag_Beast_Theme.dek	-1
+plugins/FPGGuardians/decks/Basic_Undead_Theme.dek	https://github.com/wishmstr/FPGGuardians/blob/main/decks/Basic_Undead_Theme.dek	-1
+plugins/FPGGuardians/decks/Guidebook_Knights_and_Angels.dek	https://github.com/wishmstr/FPGGuardians/blob/main/decks/Guidebook_Knights_and_Angels.dek	-1
+plugins/FPGGuardians/decks/Guidebook_Rock_Paper_and_Scissors.dek	https://github.com/wishmstr/FPGGuardians/blob/main/decks/Guidebook_Rock_Paper_and_Scissors.dek	-1
+plugins/FPGGuardians/decks/Guidebook_The_Deck.dek	https://github.com/wishmstr/FPGGuardians/blob/main/decks/Guidebook_The_Deck.dek	-1
+plugins/FPGGuardians/decks/Guidebook_The_Fast_Flying_Attack_Deck.dek	https://github.com/wishmstr/FPGGuardians/blob/main/decks/Guidebook_The_Fast_Flying_Attack_Deck.dek	-1
+plugins/FPGGuardians/packs/packdefinitions1.xml	https://github.com/wishmstr/FPGGuardians/blob/main/packs/packdefinitions1.xml	-1
+plugins/FPGGuardians/guardians_rb_rev-en.pdf	https://github.com/wishmstr/FPGGuardians/blob/main/guardians_rb_rev-en.pdf	-1
+CardURLFiles:		
 CardImageURLs1.txt
