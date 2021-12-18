@@ -122,6 +122,7 @@
 	<kind>ADDCOUNTER</kind>
 	<color>red</color>
 	<includeasbutton>yes</includeasbutton>
+	<textoverimagecolor>FF0000</textoverimagecolor>
 	<PositionX>.25</PositionX>
 	<PositionY>.04</PositionY>
 </cardfunction>
