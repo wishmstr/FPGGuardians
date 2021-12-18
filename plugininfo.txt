@@ -3,41 +3,40 @@
 <playerstat><label>Power Stones</label><initialvalue>0</initialvalue></playerstat>
 
 <deckzone>
-     <label>Deck</label>
-     <shuffle>yes</shuffle>
+	<label>Deck</label>
+	<shuffle>yes</shuffle>
 </deckzone>
 
 <deckzone>
-     <label>Starting</label>
+	<label>Starting</label>
 </deckzone>
 
 <gamezone>
-     <label>Storage Depot</label>
-     <visibletoowner>yes</visibletoowner>
+	<label>Storage Depot</label>
+	<visibletoowner>yes</visibletoowner>
 </gamezone>
 
 <gamezone>
-     <label>Deck</label>
+	<label>Deck</label>
 </gamezone>
 
 <gamezone>
-     <label>Discard</label>
-     <visibletoowner>yes</visibletoowner>
-     <visibletoothers>yes</visibletoothers>
+	<label>Discard</label>
+	<visibletoowner>yes</visibletoowner>
 </gamezone>
 
 <gamezone>
-     <label>Reinforce</label>
-	 <visibletoowner>yes</visibletoowner>
+	<label>Reinforce</label>
+	<visibletoowner>yes</visibletoowner>
 </gamezone>
 
 <gamezone>
-     <label>Creature Pen</label>
+	<label>Creature Pen</label>
 </gamezone>
 
 <gamezone>
-     <label>Starting</label>
-     <visibletoowner>yes</visibletoowner>
+	<label>Starting</label>
+	<visibletoowner>yes</visibletoowner>
 </gamezone>
 
 
@@ -55,26 +54,98 @@
 <phase><label>A - Remove Terrain Cards</label></phase>
 <phase><label>B - Place Terrain Cards Under All Your Shields</label></phase>
 
-<generalfunction><label>Draw</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
-<generalfunction><label>Ready All</label><kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></generalfunction>
-<generalfunction><label>Up Card</label><kind>DRAWCARDTOTABLE</kind><includeasbutton>yes</includeasbutton></generalfunction>
-<generalfunction><label>Flip Coin</label><kind>FLIPCOIN</kind><includeasbutton>yes</includeasbutton></generalfunction>
-<generalfunction><label>Roll d6</label><kind>ROLLD6</kind><includeasbutton>yes</includeasbutton></generalfunction>
-<generalfunction><label>Spawn Card</label><kind>SPAWNCARD</kind></generalfunction>
+<generalfunction>
+	<label>Draw</label>
+	<kind>DRAWCARD</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Ready All</label>
+	<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Up Card</label>
+	<kind>DRAWCARDTOTABLE</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Flip Coin</label>
+	<kind>FLIPCOIN</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Roll d6</label>
+	<kind>ROLLD6</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Spawn Card</label>
+	<kind>SPAWNCARD</kind>
+</generalfunction>
 
 
-<cardfunction><label>Rotate</label><kind>MAKERIGHT180DEGREES</kind></cardfunction>
-<cardfunction><label>Shield/Terrain</label><kind>MAKERIGHT270DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
-<cardfunction><label>Turn</label><kind>MAKERIGHT90DEGREES</kind></cardfunction>
-<cardfunction><label>Lock Rotation</label><kind>TOGGLETURNALLIMMUNITY</kind><includeasbutton>yes</includeasbutton></cardfunction>
-<cardfunction><label>Green+1</label><kind>ADDCOUNTER</kind><color>green</color><includeasbutton>yes</includeasbutton><PositionX>.75</PositionX><PositionY>.04</PositionY></cardfunction>
-<cardfunction><label>Green-1</label><kind>REMOVECOUNTERGREEN</kind><color>green</color><includeasbutton>yes</includeasbutton></cardfunction>
-<cardfunction><label>Red+1</label><kind>ADDCOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>.5</PositionX><PositionY>.04</PositionY></cardfunction>
-<cardfunction><label>Red-1</label><kind>REMOVECOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton></cardfunction>
-<cardfunction><label>Ready</label><kind>MAKERIGHT0DEGREES</kind></cardfunction>
+<cardfunction>
+	<label>Rotate</label>
+	<kind>MAKERIGHT180DEGREES</kind>
+</cardfunction>
+<cardfunction>
+	<label>Shield/Terrain</label>
+	<kind>MAKERIGHT270DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Turn</label>
+	<kind>MAKERIGHT90DEGREES</kind>
+</cardfunction>
+<cardfunction>
+	<label>Lock Rotation</label>
+	<kind>TOGGLETURNALLIMMUNITY</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Green+1</label>
+	<kind>ADDCOUNTER</kind>
+	<color>green</color>
+	<includeasbutton>yes</includeasbutton>
+	<PositionX>.75</PositionX>
+	<PositionY>.04</PositionY>
+</cardfunction>
+<cardfunction>
+	<label>Green-1</label>
+	<kind>REMOVECOUNTERGREEN</kind>
+	<color>green</color>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Red+1</label>
+	<kind>ADDCOUNTER</kind>
+	<color>red</color>
+	<includeasbutton>yes</includeasbutton>
+	<PositionX>.5</PositionX>
+	<PositionY>.04</PositionY>
+</cardfunction>
+<cardfunction>
+	<label>Red-1</label>
+	<kind>REMOVECOUNTER</kind>
+	<color>red</color>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Ready</label>
+	<kind>MAKERIGHT0DEGREES</kind>
+</cardfunction>
 
-<definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind></definition>
-<definition><kind>ISSTACKEDCARDSFLAT</kind></definition>
-<definition><kind>ISYOURFACEDOWNVISIBLE</kind><value>no</value></definition>
+<definition>
+	<kind>ISALLOWINGMULTIPLECARDBACKS</kind>
+</definition>
+<definition>
+	<kind>ISSTACKEDCARDSFLAT</kind>
+</definition>
+<definition>
+	<kind>ISYOURFACEDOWNVISIBLE</kind>
+	<value>no</value>
+</definition>
+
 
 </plugin>
