@@ -1,6 +1,8 @@
 <plugin>
 
-<playerstat><label>Power Stones</label><initialvalue>0</initialvalue></playerstat>
+//---------->Deck Zones<---------//
+// 1 - Deck
+// 2 - Starting
 
 <deckzone>
 	<label>Deck</label>
@@ -10,6 +12,14 @@
 <deckzone>
 	<label>Starting</label>
 </deckzone>
+
+//---------->Game Zones<---------//
+// 1 - Storage Depot
+// 2 - Deck
+// 3 - Discard
+// 4 - Reinforce
+// 5 - Creature Pen
+// 6 - Starting
 
 <gamezone>
 	<label>Storage Depot</label>
@@ -39,20 +49,29 @@
 	<visibletoowner>yes</visibletoowner>
 </gamezone>
 
-
+//---------->Phases<---------//
 <phase><label>Draw and Organize</label></phase>
-<phase><label>A - Draw Cards</label></phase>
-<phase><label>B - Create Storage Hand</label></phase>
-<phase><label>C - Place Cards</label></phase>
-<phase><label>D - Discard Down to Seven Cards</label></phase>
+<phase><label>...A - Draw Cards</label></phase>
+<phase><label>...B - Create Storage Hand</label></phase>
+<phase><label>...C - Place Cards</label></phase>
+<phase><label>...D - Discard Down to Seven Cards</label></phase>
 <phase><label>Movement and Combat</label></phase>
-<phase><label>A - Up-Card</label></phase>
-<phase><label>B - Active Player Turns Shield</label></phase>
-<phase><label>C - Active Player Movement Options</label></phase>
-<phase><label>D - Switch Active Player and Repeat</label></phase>
+<phase><label>...A - Up-Card</label></phase>
+<phase><label>...B - Active Player Turns Shield</label></phase>
+<phase><label>...C - Active Player Movement Options</label></phase>
+<phase><label>...D - Switch Active Player and Repeat</label></phase>
 <phase><label>Terrain Settlement</label></phase>
-<phase><label>A - Remove Terrain Cards</label></phase>
-<phase><label>B - Place Terrain Cards Under All Your Shields</label></phase>
+<phase><label>...A - Remove Terrain Cards</label></phase>
+<phase><label>...B - Place Terrain Cards Under All Your Shields</label></phase>
+
+//---------->GENERAL FUNCTIONS(11)<----------//
+// 1-Draw a single card into Hand
+// 2-Ready All
+// 3-Pull an Upcard
+// 4-Flip a Coin
+// 5-Roll a D6
+// 6-Spawn a Card
+// 7-Moves top (left) card from Command deck to table FACEDOWN *Not Used as is Lackey unable to process more than 9 calls in a macro to automate mulligans as of build 9-22-14.  Uncomment this and the !Mulligan! macro found in pluginpreferences.txt if this gets a revision.
 
 <generalfunction>
 	<label>Draw</label>
@@ -83,7 +102,23 @@
 	<label>Spawn Card</label>
 	<kind>SPAWNCARD</kind>
 </generalfunction>
+//<generalfunction>
+//	<label>Hand to Deck</label>
+//	<kind>TRANSFERCARD</kind>
+//	<sourcegamezone>Storage Depot</sourcegamezone>
+//	<destinationgamezone>Deck</destinationgamezone>
+//</generalfunction>
 
+//---------->CARD FUNCTIONS(12)<----------//
+// 1-Rotate (180 degrees)
+// 2-Shield Terrain (270 degrees)
+// 3-Turn (90 degrees)
+// 4-Lock Rotation
+// 5-Add Green Counter
+// 6-Remove Green Counter
+// 7-Add Red Counter (Active Shield)
+// 8-Remove Red Counter (Deactivate Shield)
+// 9-Ready (0 degrees -- original orientation)
 
 <cardfunction>
 	<label>Rotate</label>
@@ -136,6 +171,11 @@
 	<label>Ready</label>
 	<kind>MAKERIGHT0DEGREES</kind>
 </cardfunction>
+
+//---------->GENERAL DEFINITIONS(4)<----------//
+// 1-Allows multiple card backs (Rubble & double-border cards)
+// 2-Allows for Stacking cards flush on top of each other
+// 3-Does not allow for face-down cards to be visible to anyone
 
 <definition>
 	<kind>ISALLOWINGMULTIPLECARDBACKS</kind>
