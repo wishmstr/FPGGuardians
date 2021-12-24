@@ -1,4 +1,4 @@
-FPGGuardians	12-19-21
+FPGGuardians	12-24-21
 plugins/FPGGuardians/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/plugininfo.txt	417667
 plugins/FPGGuardians/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/pluginpreferences.txt	300859
 plugins/FPGGuardians/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/carddata.txt	10583649
@@ -20,5 +20,6 @@ plugins/FPGGuardians/decks/Guidebook_The_Fast_Flying_Attack_Deck.dek	https://raw
 plugins/FPGGuardians/packs/packdefinitions1.xml	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/packs/packdefinitions1.xml	725714
 plugins/FPGGuardians/guardians_rb_rev-en.pdf	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/guardians_rb_rev-en.pdf	5783654
 plugins/FPGGuardians/images/counterred.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/images/counterred.png	234
-CardURLFiles:		
+plugins/FPGGuardians/defaultchat.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/defaultchat.txt	3374
+CardImageURLs:		
 CardImageURLs1.txt
