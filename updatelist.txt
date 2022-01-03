@@ -21,5 +21,5 @@ plugins/FPGGuardians/packs/packdefinitions1.xml	https://raw.githubusercontent.co
 plugins/FPGGuardians/guardians_rb_rev-en.pdf	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/guardians_rb_rev-en.pdf	5783654
 plugins/FPGGuardians/images/counterred.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/images/counterred.png	234
 plugins/FPGGuardians/defaultchat.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/defaultchat.txt	3374
-CardImageURLs:		
+CardURLFiles:		
 CardImageURLs1.txt
