@@ -91,7 +91,6 @@
 <generalfunction>
 	<label>Flip Coin</label>
 	<kind>FLIPCOIN</kind>
-	<includeasbutton>yes</includeasbutton>
 </generalfunction>
 <generalfunction>
 	<label>Roll d6</label>
@@ -127,7 +126,6 @@
 <cardfunction>
 	<label>Shield/Terrain</label>
 	<kind>MAKERIGHT270DEGREES</kind>
-	<includeasbutton>yes</includeasbutton>
 </cardfunction>
 <cardfunction>
 	<label>Turn</label>
@@ -136,7 +134,6 @@
 <cardfunction>
 	<label>Lock Rotation</label>
 	<kind>TOGGLETURNALLIMMUNITY</kind>
-	<includeasbutton>yes</includeasbutton>
 </cardfunction>
 <cardfunction>
 	<label>Green+1</label>
