@@ -54,7 +54,9 @@
 <phase><label>...A - Draw Cards</label></phase>
 <phase><label>...B - Create Storage Hand</label></phase>
 <phase><label>...C - Place Cards</label></phase>
-<phase><label>...D - Discard Down to Seven Cards</label></phase>
+<phase><label>...D - Alternate Placing Shields</label></phase>
+<phase><label>...E - Discard Down to Seven Cards</label></phase>
+<phase><label>...F - Create Creature Pen</label></phase>
 <phase><label>Movement and Combat</label></phase>
 <phase><label>...A - Up-Card</label></phase>
 <phase><label>...B - Active Player Turns Shield</label></phase>
