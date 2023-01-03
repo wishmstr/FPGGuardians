@@ -162,5 +162,33 @@
 </chance>
 </pack>
 
+<pack>
+    <packtitle>Adventure Deck</packtitle>
+    <packformat>Standard</packformat>
+    <packkind>Basic</packkind>
+    <packdoubles>yes</packdoubles>
+    <packcommoncrit><field>Set</field><eval>IS</eval><data>Adventure</data></packcommoncrit>
+    <chance>     
+
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Amulet of Zah</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Ash Fungus</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Avalanche</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Blood Hounds</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Cinder Bag</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Crock</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Crystal Necklace</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Death Look</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Fairy Triplets</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Frasser</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Kyill The Advisor</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Night Bearer</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Raven</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Spiritualist</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Squire</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Swamp Lights</data></crit></kind>
+<kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Wind Steed</data></crit></kind>
+
+</chance>
+</pack>
 
 </packdefinitions>

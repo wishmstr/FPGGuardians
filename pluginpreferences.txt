@@ -63,6 +63,8 @@
 <bindinggeneral5>META+r</bindinggeneral5>
 <bindinggeneral6>ALT+4</bindinggeneral6>
 <bindinggeneral7>META+LEFT</bindinggeneral7>
+<bindinggeneral8>ALT+z</bindinggeneral8>
+<bindinggeneral9>CTRL+z</bindinggeneral9>
 <bindingcard0>ALT+SPACE</bindingcard0>
 <bindingcard1>META+f</bindingcard1>
 <bindingcard2>ALT+f</bindingcard2>
@@ -81,10 +83,13 @@
 <bindingcanned6>CTRL+7</bindingcanned6>
 <bindingcanned7>CTRL+8</bindingcanned7>
 <bindingcanned8>CTRL+9</bindingcanned8>
-<bindingcanned13>CTRL+0</bindingcanned13>
+<bindingcanned9>CTRL+0</bindingcanned9>
+<bindingcanned11>CTRL+SHIFT+1</bindingcanned11>
+<bindingcanned12>CTRL+SHIFT+3</bindingcanned12>
 <bindingcanned17>CTRL+MINUS</bindingcanned17>
 <bindingcanned18>CTRL+EQUALS</bindingcanned18>
 <libraryignoredoubles>1</libraryignoredoubles>
+<recentformat>-1</recentformat>
 <filterkeystroke>1</filterkeystroke>
 <deckeditorloadtozoneiscollapse>0</deckeditorloadtozoneiscollapse>
 <scalefactor>1.000000</scalefactor>
@@ -92,5 +97,6 @@
 <quickzoom>4.000000</quickzoom>
 <prevtilt>35.000000</prevtilt>
 <isdownloadallmissing>1</isdownloadallmissing>
+<isusingscripts>0</isusingscripts>
 
 </pluginpreferences>

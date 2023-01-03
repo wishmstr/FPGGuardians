@@ -3,6 +3,7 @@
 //---------->Deck Zones<---------//
 // 1 - Deck
 // 2 - Starting
+// 3 - Adventure
 
 <deckzone>
 	<label>Deck</label>
@@ -13,6 +14,11 @@
 	<label>Starting</label>
 </deckzone>
 
+<deckzone>
+	<label>Adventure</label>
+	<shuffle>yes</shuffle>
+</deckzone>
+
 //---------->Game Zones<---------//
 // 1 - Storage Depot
 // 2 - Deck
@@ -20,6 +26,7 @@
 // 4 - Reinforce
 // 5 - Creature Pen
 // 6 - Starting
+// 7 - Adventure
 
 <gamezone>
 	<label>Storage Depot</label>
@@ -49,14 +56,16 @@
 	<visibletoowner>yes</visibletoowner>
 </gamezone>
 
+<gamezone>
+	<label>Adventure</label>
+</gamezone>
+
 //---------->Phases<---------//
 <phase><label>Draw and Organize</label></phase>
-<phase><label>...A - Draw Cards</label></phase>
+<phase><label>...A - Draw Cards and Ready All Cards</label></phase>
 <phase><label>...B - Create Storage Hand</label></phase>
 <phase><label>...C - Place Cards</label></phase>
-<phase><label>...D - Alternate Placing Shields</label></phase>
 <phase><label>...E - Discard Down to Seven Cards</label></phase>
-<phase><label>...F - Create Creature Pen</label></phase>
 <phase><label>Movement and Combat</label></phase>
 <phase><label>...A - Up-Card</label></phase>
 <phase><label>...B - Active Player Turns Shield</label></phase>
@@ -67,42 +76,67 @@
 <phase><label>...B - Place Terrain Cards Under All Your Shields</label></phase>
 
 //---------->GENERAL FUNCTIONS(11)<----------//
-// 1-Draw a single card into Hand
-// 2-Ready All
-// 3-Pull an Upcard
-// 4-Flip a Coin
-// 5-Roll a D6
-// 6-Spawn a Card
-// 7-Moves top (left) card from Command deck to table FACEDOWN *Not Used as is Lackey unable to process more than 9 calls in a macro to automate mulligans as of build 9-22-14.  Uncomment this and the !Mulligan! macro found in pluginpreferences.txt if this gets a revision.
+// 1 - Draw a single card into Hand
+// 2 - Ready All
+// 3 - Pull an Upcard
+// 4 - Flip a Coin
+// 5 - Roll a D6
+// 6 - Spawn a Card
+// 7 - Draw Adventure Card
+// 8 - Moves top (left) card from Command deck to table FACEDOWN *Not Used as is Lackey unable to process more than 9 calls in a macro to automate mulligans as of build 9-22-14.  Uncomment this and the !Mulligan! macro found in pluginpreferences.txt if this gets a revision.
 
 <generalfunction>
 	<label>Draw</label>
 	<kind>DRAWCARD</kind>
 	<includeasbutton>yes</includeasbutton>
 </generalfunction>
+
 <generalfunction>
 	<label>Ready All</label>
 	<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
 	<includeasbutton>yes</includeasbutton>
 </generalfunction>
+
 <generalfunction>
 	<label>Up Card</label>
 	<kind>DRAWCARDTOTABLE</kind>
 	<includeasbutton>yes</includeasbutton>
 </generalfunction>
+
 <generalfunction>
 	<label>Flip Coin</label>
 	<kind>FLIPCOIN</kind>
 </generalfunction>
+
 <generalfunction>
 	<label>Roll d6</label>
 	<kind>ROLLD6</kind>
 	<includeasbutton>yes</includeasbutton>
 </generalfunction>
+
 <generalfunction>
 	<label>Spawn Card</label>
 	<kind>SPAWNCARD</kind>
 </generalfunction>
+
+
+<generalfunction>
+	<label>Top of Deck</label>
+	<kind>TRANSFERCARD</kind>
+	<destinationgamezone>Deck</destinationgamezone>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<generalfunction>
+	<label>Draw Adventure</label>
+	<kind>TRANSFERCARD</kind>
+	<sourcegamezone>Adventure</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>table</destinationowner>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+
 //<generalfunction>
 //	<label>Hand to Deck</label>
 //	<kind>TRANSFERCARD</kind>
@@ -125,18 +159,22 @@
 	<label>Rotate</label>
 	<kind>MAKERIGHT180DEGREES</kind>
 </cardfunction>
+
 <cardfunction>
 	<label>Shield/Terrain</label>
 	<kind>MAKERIGHT270DEGREES</kind>
 </cardfunction>
+
 <cardfunction>
 	<label>Turn</label>
 	<kind>MAKERIGHT90DEGREES</kind>
 </cardfunction>
+
 <cardfunction>
 	<label>Lock Rotation</label>
 	<kind>TOGGLETURNALLIMMUNITY</kind>
 </cardfunction>
+
 <cardfunction>
 	<label>Green+1</label>
 	<kind>ADDCOUNTER</kind>
@@ -145,12 +183,14 @@
 	<PositionX>.75</PositionX>
 	<PositionY>.04</PositionY>
 </cardfunction>
+
 <cardfunction>
 	<label>Green-1</label>
 	<kind>REMOVECOUNTERGREEN</kind>
 	<color>green</color>
 	<includeasbutton>yes</includeasbutton>
 </cardfunction>
+
 <cardfunction>
 	<label>Red+1</label>
 	<kind>ADDCOUNTER</kind>
@@ -160,12 +200,14 @@
 	<PositionX>.25</PositionX>
 	<PositionY>.04</PositionY>
 </cardfunction>
+
 <cardfunction>
 	<label>Red-1</label>
 	<kind>REMOVECOUNTER</kind>
 	<color>red</color>
 	<includeasbutton>yes</includeasbutton>
 </cardfunction>
+
 <cardfunction>
 	<label>Ready</label>
 	<kind>MAKERIGHT0DEGREES</kind>
