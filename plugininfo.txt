@@ -65,12 +65,13 @@
 <phase><label>...A - Draw Cards and Ready All Cards</label></phase>
 <phase><label>...B - Create Storage Hand</label></phase>
 <phase><label>...C - Place Cards</label></phase>
-<phase><label>...E - Discard Down to Seven Cards</label></phase>
+<phase><label>...D - Discard Down to Seven Cards</label></phase>
 <phase><label>Movement and Combat</label></phase>
 <phase><label>...A - Up-Card</label></phase>
-<phase><label>...B - Active Player Turns Shield</label></phase>
-<phase><label>...C - Active Player Movement Options</label></phase>
-<phase><label>...D - Switch Active Player and Repeat</label></phase>
+<phase><label>...B - Play Event Card
+<phase><label>...C - Active Player Turns Shield</label></phase>
+<phase><label>...D - Active Player Movement Options</label></phase>
+<phase><label>...E - Switch Active Player and Repeat</label></phase>
 <phase><label>Terrain Settlement</label></phase>
 <phase><label>...A - Remove Terrain Cards</label></phase>
 <phase><label>...B - Place Terrain Cards Under All Your Shields</label></phase>
