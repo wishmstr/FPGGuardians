@@ -1,7 +1,7 @@
 FPGGuardians	04-20-23
-plugins/FPGGuardians/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/plugininfo.txt	464240
+plugins/FPGGuardians/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/plugininfo.txt	468171
 plugins/FPGGuardians/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/pluginpreferences.txt	322723
-plugins/FPGGuardians/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/carddata.txt	11314374
+plugins/FPGGuardians/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/carddata.txt	11312830
 plugins/FPGGuardians/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/general/cardback.png	235830
 plugins/FPGGuardians/sets/setimages/general/spawned.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/general/spawned.png	235830
 plugins/FPGGuardians/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/CardImageURLs1.txt	11020369
@@ -21,5 +21,6 @@ plugins/FPGGuardians/packs/packdefinitions1.xml	https://raw.githubusercontent.co
 plugins/FPGGuardians/guardians_rb_rev-en.pdf	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/guardians_rb_rev-en.pdf	5783654
 plugins/FPGGuardians/images/counterred.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/images/counterred.png	234
 plugins/FPGGuardians/defaultchat.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/defaultchat.txt	3420
+plugins/FPGGuardians/EventCardInfo.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/EventCardInfo.txt	45030
 CardURLFiles:		
 CardImageURLs1.txt
