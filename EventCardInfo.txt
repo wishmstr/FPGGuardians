@@ -1,0 +1,10 @@
+II- Movement and Combat
+A.    Up-Card
+B.    Event
+C.    Active player turns Shield
+D.    Active player movement options (combat if necessary)
+E.    Switch active player and repeat C-D until all Shields have been turned
+
+An event can be played after Up-Card is turned and before active player turns Shield. Only one event can be played per turn : If the active player plays an event the other player can’t play an event too.
+Event is effective until end of turn. 
+Discard Event card after the Terrain Settlement phase

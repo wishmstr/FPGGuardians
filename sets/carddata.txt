@@ -239,7 +239,7 @@ Mummy	NP	MummyExternalCreatureCommon2.png	external	Undead             			M 	7		0
 Nubian Slave Girl	NP	NubianSlaveGirlExternalCreatureCommon2.png	external	Undead             			M 	2		0		G											When played in a primary match-up you may choose to have the Slave Girl distroyed, ending the match-up, and leaving her opponent as an Unchallenged Card in mellee. You may then add a Gold Bribery Card from your discard pile to your storage Depot. One per space, per player		
 Pharaoh Djoser 	NP	PharaohDjoserExternalCreatureCommon2.png	external	Undead             			M 	2		1							Y						No Spells may be played during this combat. This ability cannot be disspelled.		
 Plague Walker	NP	PlagueWalkerExternalCreatureCommon2.png	external	Undead             			M 	5		1			B										Fear-based attack. +2 to all fear-based attacks when Plague Walker is in play.		
-Preist of Horus	NP	PreistofHorusExternalCreatureUncom1.png	external	Undead             			M 	5		0		G		C			Y						During any primary match-up, you may spend 1 Power Stone to empty the text box of your opponent's Creature. Doesn't affect ranged attacks.		
+Priest of Horus	NP	PreistofHorusExternalCreatureUncom1.png	external	Undead             			M 	5		0		G		C			Y						During any primary match-up, you may spend 1 Power Stone to empty the text box of your opponent's Creature. Doesn't affect ranged attacks.		
 Priest of Sethos	NP	PriestofSethosExternalCreatureUncom1.png	external	Undead             			M 	3		1				C			Y						No Power Stones may be spent for channeling during this combat.		
 Priestess of Isis	NP	PriestessofIsisExternalCreatureCommon2.png	external	Undead             			M 	12		3													+1 Vitality for each single-bordered card in your Combat Hand when the Priestess is played.		
 Sebek, Queen of Magicians	NP	SebekQueenofMagiciansExternalCreatureUncom1.png	external	Undead             			M 	6		0		G		C			Y						Immediately discard any one Spell from your Storage Hand to add any one Spell from your draw deck to your Storage Hand. Reshuffle your draw deck.		
@@ -704,10 +704,10 @@ Chalice Of Holy Water	Events	ChaliceOfHolyWater.png	Event					22															F
 Crusade	Events	Crusade.png	Event					13															For the rest of this turn, all Knights, Angels and Clerics are +3 Vitality.		
 Drought	Events	Drought.png	Event					25															For the rest of this turn, all Creatures with Dry Heaps bonuses are +3 Vitality, all Creatures with Rivers and Lakes bonuses are -3 Vitality.		
 Everyone For Themselves	Events	EveryoneForThemselves.png	Event					20															For the rest of this turn, treat all Creatures as Unclassed.		
-Fan - Cretaceous Park	Events	CretaceousPark.png	Event					7															For the rest of this turn, all Saurians get their Vitality bonus in Jungle even not on a Jungle terrain.		
-Fan - Day Of The Beast	Events	DayOfTheBeast.png	Event					8															For the rest of this turn, Demons and Devils are +3 Vitality.		
-Fan - Dragon Flight	Events	DragonFlight.png	Event					23															For the rest of this turn, all Dragons are not bribable.		
-Fan - Get The Plunder	Events	GetThePlunder.png	Event					6															For the rest of this turn, each time a Pirate wins a Primary attack match-up, that player receives one Power Stone.		
+Cretaceous Park	Events	CretaceousPark.png	Event					7															For the rest of this turn, all Saurians get their Vitality bonus in Jungle even not on a Jungle terrain.		
+Day Of The Beast	Events	DayOfTheBeast.png	Event					8															For the rest of this turn, Demons and Devils are +3 Vitality.		
+Dragon Flight	Events	DragonFlight.png	Event					23															For the rest of this turn, all Dragons are not bribable.		
+Get The Plunder	Events	GetThePlunder.png	Event					6															For the rest of this turn, each time a Pirate wins a Primary attack match-up, that player receives one Power Stone.		
 Firestorm	Events	Firestorm.png	Event					14															For the rest of this turn, all fire-based attacks are +3 Vitality.  All fire-based AOEs are +1 to the AOE.  Creatures immune to fire lose their immunity.		
 Great Forest Fire	Events	GreatForestFire.png	Event					11															For the rest of this turn, all creatures with fire-based attacks double their base Vitality against creatures with Woods bonuses.		
 Ice Age	Events	IceAge.png	Event					24															For the rest of this turn, all creatures are -3 Vitality (never reduced below zero) unless they have Ice or Snow in their names.  Rivers and Lakes bonuses are reduced to zero. (Lakes are frozen over.)		
