@@ -1,10 +1,10 @@
-FPGGuardians	01-03-23
+FPGGuardians	04-20-23
 plugins/FPGGuardians/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/plugininfo.txt	464240
 plugins/FPGGuardians/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/pluginpreferences.txt	322723
-plugins/FPGGuardians/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/carddata.txt	10956801
+plugins/FPGGuardians/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/carddata.txt	11314374
 plugins/FPGGuardians/sets/setimages/general/cardback.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/general/cardback.png	235830
 plugins/FPGGuardians/sets/setimages/general/spawned.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/general/spawned.png	235830
-plugins/FPGGuardians/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/CardImageURLs1.txt	10743066
+plugins/FPGGuardians/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/CardImageURLs1.txt	11020369
 plugins/FPGGuardians/decks/Advanced_Richards_Pirates.dek	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/decks/Advanced_Richards_Pirates.dek	704200
 plugins/FPGGuardians/decks/Advanced_The_Bad_Luck_13_Pirate_Extravaganza.dek	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/decks/Advanced_The_Bad_Luck_13_Pirate_Extravaganza.dek	781174
 plugins/FPGGuardians/decks/Advanced_Undead_and_Slag_Beast.dek	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/decks/Advanced_Undead_and_Slag_Beast.dek	918983

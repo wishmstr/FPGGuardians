@@ -1,4 +1,4 @@
-CardImageURLs:
+CardImageURLs:	
 RE/BabesBriberyCommon2.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/RE/BabesBriberyCommon2.png
 RE/BeerBriberyCommon2.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/RE/BeerBriberyCommon2.png
 RE/GoldBriberyCommon2.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/RE/GoldBriberyCommon2.png
@@ -710,3 +710,26 @@ Adventure/Squire.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/mai
 Adventure/SwampLights.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Adventure/SwampLights.png
 Adventure/TheCount.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Adventure/TheCount.png
 Adventure/WindSteed.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Adventure/WindSteed.png
+Events/CalmOverTheLand.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/CalmOverTheLand.png
+Events/ChaliceOfHolyWater.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/ChaliceOfHolyWater.png
+Events/Crusade.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/Crusade.png
+Events/Drought.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/Drought.png
+Events/EveryoneForThemselves.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/EveryoneForThemselves.png
+Events/CretaceousPark.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/CretaceousPark.png
+Events/DayOfTheBeast.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/DayOfTheBeast.png
+Events/DragonFlight.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/DragonFlight.png
+Events/GetThePlunder.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/GetThePlunder.png
+Events/Firestorm.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/Firestorm.png
+Events/GreatForestFire.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/GreatForestFire.png
+Events/IceAge.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/IceAge.png
+Events/MeteoriticRain.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/MeteoriticRain.png
+Events/MysticShowdown.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/MysticShowdown.png
+Events/PowerCorrupts.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/PowerCorrupts.png
+Events/PowerLeak.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/PowerLeak.png
+Events/ReversePolarity.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/ReversePolarity.png
+Events/Sandstorm.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/Sandstorm.png
+Events/SpiritualAwakening.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/SpiritualAwakening.png
+Events/Strike.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/Strike.png
+Events/TectonicShift.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/TectonicShift.png
+Events/TheGreatFlood.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/TheGreatFlood.png
+Events/United.png	https://raw.githubusercontent.com/wishmstr/FPGGuardians/main/sets/setimages/Events/United.png

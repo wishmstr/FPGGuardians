@@ -699,3 +699,26 @@ Death Look	Adventure	DeathLook.png,AdventureBack.png	Adventure		1															
 Night Bearer	Adventure	NightBearer.png,AdventureBack.png	Adventure		1																		Players draw two extra cards if their Up-card was a terrain card	1 time per game, you may add 5 Vitality to any of your creatures in a Match-up	
 Squire	Adventure	Squire.png,AdventureBack.png	Adventure		2																		All players get a stone if there is a tie for Up-card	1 time per game, you may put a card back into your storage hand instead of discarding it.	
 Amulet of Zah	Adventure	AmuletofZah.png,AdventureBack.png	Adventure		5																		The space limit is increased to 33 Vitality.	If you lose a game while holding the Amulet of Zah, your opponent can chose to take it from you instead of taking the new Adventure Deck Card.	
+Calm Over The Land	Events	CalmOverTheLand.png	Event					28															For the rest of this turn, all Terrain restrictions are lifted, including those on movement, Ranged Attacks, Channeling and Bribery.		
+Chalice Of Holy Water	Events	ChaliceOfHolyWater.png	Event					22															For the rest of this turn, if a Demon, Devil, or Undead Creature is beaten in a match-up, it is destroyed.		
+Crusade	Events	Crusade.png	Event					13															For the rest of this turn, all Knights, Angels and Clerics are +3 Vitality.		
+Drought	Events	Drought.png	Event					25															For the rest of this turn, all Creatures with Dry Heaps bonuses are +3 Vitality, all Creatures with Rivers and Lakes bonuses are -3 Vitality.		
+Everyone For Themselves	Events	EveryoneForThemselves.png	Event					20															For the rest of this turn, treat all Creatures as Unclassed.		
+Fan - Cretaceous Park	Events	CretaceousPark.png	Event					7															For the rest of this turn, all Saurians get their Vitality bonus in Jungle even not on a Jungle terrain.		
+Fan - Day Of The Beast	Events	DayOfTheBeast.png	Event					8															For the rest of this turn, Demons and Devils are +3 Vitality.		
+Fan - Dragon Flight	Events	DragonFlight.png	Event					23															For the rest of this turn, all Dragons are not bribable.		
+Fan - Get The Plunder	Events	GetThePlunder.png	Event					6															For the rest of this turn, each time a Pirate wins a Primary attack match-up, that player receives one Power Stone.		
+Firestorm	Events	Firestorm.png	Event					14															For the rest of this turn, all fire-based attacks are +3 Vitality.  All fire-based AOEs are +1 to the AOE.  Creatures immune to fire lose their immunity.		
+Great Forest Fire	Events	GreatForestFire.png	Event					11															For the rest of this turn, all creatures with fire-based attacks double their base Vitality against creatures with Woods bonuses.		
+Ice Age	Events	IceAge.png	Event					24															For the rest of this turn, all creatures are -3 Vitality (never reduced below zero) unless they have Ice or Snow in their names.  Rivers and Lakes bonuses are reduced to zero. (Lakes are frozen over.)		
+Meteoritic Rain	Events	MeteoriticRain.png	Event					19															For the rest of this turn, all Mountains terrain is considered to be a face-down Terrain.		
+Mystic Showdown	Events	MysticShowdown.png	Event					17															For the rest of this turn, all off-color bonuses are doubled.		
+Power Corrupts	Events	PowerCorrupts.png	Event					15															Whenever a Shield wins a battle on a face up Terrain card (not Shield/Terrain), that player receives Power Stones equal to HALF the Up Card number (rounded up) of the Terrain.  That player also discards the same number of face-down cards from the top of his draw deck.		
+Power Leak	Events	PowerLeak.png	Event					18															For the rest of this turn, every time a player spends a stone, that player must also discard the top face-down card from his draw deck.		
+Reverse Polarity	Events	ReversePolarity.png	Event					23															For the rest of this turn, all channeling from Guardians SUBTRACTS Vitality from creatures.  However, you may channel to your opponent's Creatures that can accept channeling.  Only Guardians may channel.		
+Sandstorm	Events	Sandstorm.png	Event					26															For the rest of this turn, Shields may only move one space.		
+Spiritual Awakening	Events	SpiritualAwakening.png	Event					16															For the rest of this turn, all Spirits are considered to be channeling receivers.		
+Strike	Events	Strike.png	Event					27															For the rest of this turn, Shields in the disputed lands may not receive any re-inforcements.		
+Tectonic Shift	Events	TectonicShift.png	Event					29															For the rest of this turn, all Terrain bonuses remain in effect for the duration of combat but do not count for determining control of the space.		
+The Great Flood	Events	TheGreatFlood.png	Event					12															For the rest of this turn, treat all disputed land as Rivers and Lakes.  +2 Vitality to all Creatures with Rivers and Lakes bonuses.  -2 Vitality to all Creatures with fire-based attacks.  -1 to all fire-based AOE attacks.		
+United	Events	United.png	Event					21															For the rest of this turn, all creatures are immune to Creatures with the same Creature Class during primary match-ups.		
